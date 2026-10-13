@@ -170,5 +170,181 @@
         "source": "official distributor shared product photo folder"
       }
     ]
-  }
+  },
+  "redbo_models": {
+    "17848": [
+      {
+        "filename": "redbo-17848-7f67f6e74c6f.jpg",
+        "relative_url": "/images/redbo/17848/redbo-17848-7f67f6e74c6f.jpg",
+        "manufacturer_model": "17848",
+        "source_filename": "INTEC MIG-205_1.jpg",
+        "sha256": "7f67f6e74c6fce4e5727c1d5a5af596bd33e6d17aa7559ae47e9d336b70d4c29",
+        "width": 1024,
+        "height": 916,
+        "bytes": 552791,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-17848-00b0dcbd67cb.jpg",
+        "relative_url": "/images/redbo/17848/redbo-17848-00b0dcbd67cb.jpg",
+        "manufacturer_model": "17848",
+        "source_filename": "INTEC MIG-205_11.jpg",
+        "sha256": "00b0dcbd67cb5a6fe4ed66b6358053cfcf9fdf716b41049656c1520981027f40",
+        "width": 950,
+        "height": 1024,
+        "bytes": 530224,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-17848-7653a8be2e43.jpg",
+        "relative_url": "/images/redbo/17848/redbo-17848-7653a8be2e43.jpg",
+        "manufacturer_model": "17848",
+        "source_filename": "INTEC MIG-205_12.jpg",
+        "sha256": "7653a8be2e4319199e498df96284ca5d6a00b4236dfad2c89db067df24f562b2",
+        "width": 753,
+        "height": 1024,
+        "bytes": 321335,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-17848-21dae238a200.jpg",
+        "relative_url": "/images/redbo/17848/redbo-17848-21dae238a200.jpg",
+        "manufacturer_model": "17848",
+        "source_filename": "INTEC MIG-205_14.jpg",
+        "sha256": "21dae238a200c3bf811b4afca1349dd382254b7b59b7c0433007df49c6107799",
+        "width": 1024,
+        "height": 851,
+        "bytes": 208598,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-17848-65023b29444c.jpg",
+        "relative_url": "/images/redbo/17848/redbo-17848-65023b29444c.jpg",
+        "manufacturer_model": "17848",
+        "source_filename": "INTEC MIG-205_5.jpg",
+        "sha256": "65023b29444cbd19d83f5633c2e49f9ac912fb37b6b9e99abe089c22c09de356",
+        "width": 633,
+        "height": 1024,
+        "bytes": 441981,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-17848-3670ebeb3bde.jpg",
+        "relative_url": "/images/redbo/17848/redbo-17848-3670ebeb3bde.jpg",
+        "manufacturer_model": "17848",
+        "source_filename": "INTEC MIG-205_8.jpg",
+        "sha256": "3670ebeb3bdeb6932887383ff20a6b0b3a9ed2bf2374cdd7bbffa5dae6d8e531",
+        "width": 1024,
+        "height": 964,
+        "bytes": 490211,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-17848-0274cff9fbf1.jpg",
+        "relative_url": "/images/redbo/17848/redbo-17848-0274cff9fbf1.jpg",
+        "manufacturer_model": "17848",
+        "source_filename": "INTEC MIG-205_9.jpg",
+        "sha256": "0274cff9fbf16527440ff169b0f3804382f24b63084866ffefb9f340558cab56",
+        "width": 1024,
+        "height": 607,
+        "bytes": 331013,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      }
+    ],
+    "28523": [
+      {
+        "filename": "redbo-28523-cfff7502bef3.jpg",
+        "relative_url": "/images/redbo/28523/redbo-28523-cfff7502bef3.jpg",
+        "manufacturer_model": "28523",
+        "source_filename": "MIG-185S_5.jpg",
+        "sha256": "cfff7502bef324470755b8e2a809d95990a354b68d1c50d0c16d2ccfc101a307",
+        "width": 1024,
+        "height": 805,
+        "bytes": 447478,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-28523-bcf6ee274971.jpg",
+        "relative_url": "/images/redbo/28523/redbo-28523-bcf6ee274971.jpg",
+        "manufacturer_model": "28523",
+        "source_filename": "MIG-185S.jpg",
+        "sha256": "bcf6ee27497172fd127dd826b63b064fa69788d661fe0fc9d245a232cddd2809",
+        "width": 1024,
+        "height": 799,
+        "bytes": 311688,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-28523-eca58c8fe930.jpg",
+        "relative_url": "/images/redbo/28523/redbo-28523-eca58c8fe930.jpg",
+        "manufacturer_model": "28523",
+        "source_filename": "MIG-185S_6.jpg",
+        "sha256": "eca58c8fe9302314fea1b7612b82c1d9bdee86fd6551569f37dacabcf5c7f038",
+        "width": 1024,
+        "height": 710,
+        "bytes": 325442,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      }
+    ],
+    "28526": [
+      {
+        "filename": "redbo-28526-6316168b26b6.jpg",
+        "relative_url": "/images/redbo/28526/redbo-28526-6316168b26b6.jpg",
+        "manufacturer_model": "28526",
+        "source_filename": "Redbo MIG-285S_5.jpg",
+        "sha256": "6316168b26b64163f455efc44efb3755e83cdde767eef02a835a33a0aacc8290",
+        "width": 1024,
+        "height": 708,
+        "bytes": 668315,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-28526-e72827b584ee.jpg",
+        "relative_url": "/images/redbo/28526/redbo-28526-e72827b584ee.jpg",
+        "manufacturer_model": "28526",
+        "source_filename": "Redbo MIG-285S_2.jpg",
+        "sha256": "e72827b584ee47713011efedc0b0f5deb824b3ad8d287c42c135546367b14544",
+        "width": 1024,
+        "height": 594,
+        "bytes": 298774,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-28526-817c3ccaef57.jpg",
+        "relative_url": "/images/redbo/28526/redbo-28526-817c3ccaef57.jpg",
+        "manufacturer_model": "28526",
+        "source_filename": "Redbo MIG-285S_6.jpg",
+        "sha256": "817c3ccaef5730c9e52bd27a0e8bca85f05e1b0818b6fcd0333d8a9afc6b69b0",
+        "width": 1024,
+        "height": 768,
+        "bytes": 615587,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      }
+    ],
+    "57105": [
+      {
+        "filename": "redbo-57105-e09be43ce412.jpg",
+        "relative_url": "/images/redbo/57105/redbo-57105-e09be43ce412.jpg",
+        "manufacturer_model": "57105",
+        "source_filename": "MIG-250PLUS_4.jpg",
+        "sha256": "e09be43ce412c87d347daa03c29cf884750789a6e3162aadaab572b30017f6b7",
+        "width": 1200,
+        "height": 1200,
+        "bytes": 251515,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      },
+      {
+        "filename": "redbo-57105-c99ca47904b3.jpg",
+        "relative_url": "/images/redbo/57105/redbo-57105-c99ca47904b3.jpg",
+        "manufacturer_model": "57105",
+        "source_filename": "MIG-250PLUS_2.jpg",
+        "sha256": "c99ca47904b35b8ca550e0122541e93ae8605765dbc856ef37f3b02489d95fd3",
+        "width": 1200,
+        "height": 1200,
+        "bytes": 510116,
+        "source": "public supplier original REDBO, manually checked free of RedboMarket/Promtehnik watermarks"
+      }
+    ]
+  },
+  "last_redbo_build_utc": "2026-10-13T18:03:49.768984+00:00"
 }
