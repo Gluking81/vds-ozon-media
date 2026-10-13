@@ -1,0 +1,13 @@
+# Static files only. No functions, build plugins or paid services.
+[build]
+  publish = "."
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+    X-Content-Type-Options = "nosniff"
+    Access-Control-Allow-Origin = "*"
+[[headers]]
+  for = "/manifest.json"
+  [headers.values]
+    Cache-Control = "public, max-age=300"

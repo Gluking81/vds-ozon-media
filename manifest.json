@@ -1,0 +1,165 @@
+{
+  "last_built_utc": "2026-10-13T17:12:07.643442+00:00",
+  "role": "Public original supplier EDON JPEG archive and stable URLs for Ozon importer",
+  "policy": "Use only verified product JPG; no PDFs/certificates/private documents/retailer JPG under this endpoint.",
+  "models": {
+    "24952": [],
+    "40591": [
+      {
+        "filename": "edon-40591-0a5160617a0d.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-0a5160617a0d.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "0a5160617a0dfc63f65dc507374decf2787f463898caaea9fde6ffd5a9ac7768",
+        "bytes": 355832,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-0ce4f5fdbdb2.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-0ce4f5fdbdb2.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "0ce4f5fdbdb29e3e3287e590eb2a92d9ebada62729fc5ba12680fab64eb9419e",
+        "bytes": 640295,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-3b32b4e29a81.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-3b32b4e29a81.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "3b32b4e29a812c9f51c14fcecee898dc4d606e0a93e5e96bcbc46d777e58e9d5",
+        "bytes": 528752,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-431e66f35334.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-431e66f35334.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "431e66f35334afdf237a36c1adab06e854eadc5b4b74a1f166c5dcdcb1a02b4b",
+        "bytes": 985126,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-4b8520ecd076.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-4b8520ecd076.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "4b8520ecd0766a5db861db9077798d524fd9be87ec554c6bd9fb47226474b75c",
+        "bytes": 483459,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-5a79c16155ed.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-5a79c16155ed.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "5a79c16155ed0f6e77b87918ac121ba8100b7959094eb79f5ce86a247917b7ee",
+        "bytes": 536142,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-657d38643fdd.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-657d38643fdd.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "657d38643fdd3a64e9d103538d207e3bfffa5f38b78d43ae3ba41e57097071d1",
+        "bytes": 638242,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-833b7e0ce101.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-833b7e0ce101.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "833b7e0ce10177917a5dce3a4a793b4f48aabe886fd96a9cd0d267be701331e0",
+        "bytes": 370935,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-baf7fb41a6b3.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-baf7fb41a6b3.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "baf7fb41a6b35709f9fb94945e49372e8a38086c7754f73b469802dd0ceb0155",
+        "bytes": 402166,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-c747e26f733f.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-c747e26f733f.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "c747e26f733f2eb3ec002f6a9870be631335739e50edc391c8cb0a50b68d9c28",
+        "bytes": 532508,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-cb579f3cb7ab.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-cb579f3cb7ab.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "cb579f3cb7abbf6dc2a13c1f0e58598fac9a2ce13ed328615628a195033ee470",
+        "bytes": 722054,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-cf3d83efb6d8.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-cf3d83efb6d8.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "cf3d83efb6d8e623e68d1119cdd7222c537865ba8807bef97d6b163f87e2ec11",
+        "bytes": 327441,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-d3494120db19.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-d3494120db19.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "d3494120db1962dde67352b6f493f13f9d720e10d364f1d076ba33a9a95d4ee2",
+        "bytes": 580563,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-40591-e8e10c7045df.jpg",
+        "relative_url": "/images/edon/40591/edon-40591-e8e10c7045df.jpg",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "e8e10c7045dfc4db037a1a6c77782be1e72662c5a1b1b19951faae7f9911dabf",
+        "bytes": 560627,
+        "source": "official distributor shared product photo folder"
+      }
+    ],
+    "24955": [
+      {
+        "filename": "edon-24955-ae688c95dc9b.jpg",
+        "relative_url": "/images/edon/24955/edon-24955-ae688c95dc9b.jpg",
+        "width": 1024,
+        "height": 733,
+        "sha256": "ae688c95dc9bd0dcc0451d846ae619884f05e7cc6a1a97a1836e3cce95d833a2",
+        "bytes": 237758,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-24955-bc2080a05938.jpg",
+        "relative_url": "/images/edon/24955/edon-24955-bc2080a05938.jpg",
+        "width": 1024,
+        "height": 755,
+        "sha256": "bc2080a059389e10f7c690f7619b264a2b9afd0fc18080049008ab15ce1be299",
+        "bytes": 385819,
+        "source": "official distributor shared product photo folder"
+      },
+      {
+        "filename": "edon-24955-db545e7fd0e0.jpg",
+        "relative_url": "/images/edon/24955/edon-24955-db545e7fd0e0.jpg",
+        "width": 724,
+        "height": 1024,
+        "sha256": "db545e7fd0e0d5cf41fe755a140118bd347daca19af97b103953c68f674d9262",
+        "bytes": 463612,
+        "source": "official distributor shared product photo folder"
+      }
+    ]
+  }
+}
