@@ -169,6 +169,92 @@
         "bytes": 463612,
         "source": "official distributor shared product photo folder"
       }
+    ],
+    "19430": [
+      {
+        "relative_url": "/images/edon/19430/edon-19430-UPDATED-b3958ce65faa.jpg",
+        "filename": "edon-19430-UPDATED-b3958ce65faa.jpg",
+        "width": 1200,
+        "height": 1600,
+        "sha256": "b3958ce65faa73f9264cf255720379bde5bf792c9398b667472be18619fb15fa",
+        "bytes": 155812,
+        "source_version": "CURRENT Ozon UPDATED dual digital display",
+        "source_origin": "Photo derived from exact item retail listing; crop/resize only, no AI",
+        "source_url": "https://svobodniy.rosindustry.pro/media/product_images/svarochnyj-apparat-edon-smart-87223bb778-0.jpg",
+        "slot": 1
+      },
+      {
+        "relative_url": "/images/edon/19430/edon-19430-UPDATED-76daaeee009f.jpg",
+        "filename": "edon-19430-UPDATED-76daaeee009f.jpg",
+        "width": 1200,
+        "height": 1600,
+        "sha256": "76daaeee009f6500be025d054478fbe0ff14b07d93f7e7fb064da5d7c238fa21",
+        "bytes": 222615,
+        "source_version": "CURRENT Ozon UPDATED dual digital display",
+        "source_origin": "Photo derived from exact item retail listing; crop/resize only, no AI",
+        "source_url": "https://svobodniy.rosindustry.pro/media/product_images/svarochnyj-apparat-edon-smart-d795f2f661-1.jpg",
+        "slot": 2
+      },
+      {
+        "relative_url": "/images/edon/19430/edon-19430-UPDATED-7789a0d93e6f.jpg",
+        "filename": "edon-19430-UPDATED-7789a0d93e6f.jpg",
+        "width": 1200,
+        "height": 1600,
+        "sha256": "7789a0d93e6f6e23c71c5a702e2c8bdb8a1790ef8dca047dd7ce1f6704c4d5b1",
+        "bytes": 225821,
+        "source_version": "CURRENT Ozon UPDATED dual digital display",
+        "source_origin": "Photo derived from exact item retail listing; crop/resize only, no AI",
+        "source_url": "https://svobodniy.rosindustry.pro/media/product_images/svarochnyj-apparat-edon-smart-f3a96cf8ac-2.jpg",
+        "slot": 3
+      },
+      {
+        "relative_url": "/images/edon/19430/edon-19430-UPDATED-e3acef82f67a.jpg",
+        "filename": "edon-19430-UPDATED-e3acef82f67a.jpg",
+        "width": 1200,
+        "height": 1600,
+        "sha256": "e3acef82f67ac803841068d870e855b8068ccd4aae3b842938dd33e053dc05ab",
+        "bytes": 180188,
+        "source_version": "CURRENT Ozon UPDATED dual digital display",
+        "source_origin": "Photo derived from exact item retail listing; crop/resize only, no AI",
+        "source_url": "https://svobodniy.rosindustry.pro/media/product_images/svarochnyj-apparat-edon-smart-c621fe9054-3.jpg",
+        "slot": 4
+      },
+      {
+        "relative_url": "/images/edon/19430/edon-19430-UPDATED-40b290f3770e.jpg",
+        "filename": "edon-19430-UPDATED-40b290f3770e.jpg",
+        "width": 1200,
+        "height": 1600,
+        "sha256": "40b290f3770e38ad93c212285cd64c4885aa9d163f4c7cb241f3bd0a357349e8",
+        "bytes": 172470,
+        "source_version": "CURRENT Ozon UPDATED dual digital display",
+        "source_origin": "Photo derived from exact item retail listing; crop/resize only, no AI",
+        "source_url": "https://svobodniy.rosindustry.pro/media/product_images/svarochnyj-apparat-edon-smart-460979546f-4.jpg",
+        "slot": 5
+      },
+      {
+        "relative_url": "/images/edon/19430/edon-19430-UPDATED-e202dc536643.jpg",
+        "filename": "edon-19430-UPDATED-e202dc536643.jpg",
+        "width": 1200,
+        "height": 1600,
+        "sha256": "e202dc536643a41f54b55a79ba40aedf865d202216ece4a0ca4dbb2a7e887926",
+        "bytes": 200319,
+        "source_version": "CURRENT Ozon UPDATED dual digital display",
+        "source_origin": "Photo derived from exact item retail listing; crop/resize only, no AI",
+        "source_url": "https://svobodniy.rosindustry.pro/media/product_images/svarochnyj-apparat-edon-smart-1b0cdad7c5-5.jpg",
+        "slot": 6
+      },
+      {
+        "relative_url": "/images/edon/19430/edon-19430-UPDATED-c13976433846.jpg",
+        "filename": "edon-19430-UPDATED-c13976433846.jpg",
+        "width": 1200,
+        "height": 1600,
+        "sha256": "c13976433846598fa725dc46e6c8e5fa3b21dd751e7af5d4c727abf4a7381942",
+        "bytes": 174566,
+        "source_version": "CURRENT Ozon UPDATED dual digital display",
+        "source_origin": "Photo derived from exact item retail listing; crop/resize only, no AI",
+        "source_url": "https://svobodniy.rosindustry.pro/media/product_images/svarochnyj-apparat-edon-smart-3de93b5473-6.jpg",
+        "slot": 7
+      }
     ]
   },
   "redbo_models": {
@@ -346,5 +432,6 @@
       }
     ]
   },
-  "last_redbo_build_utc": "2026-10-13T18:03:49.768984+00:00"
+  "last_redbo_build_utc": "2026-10-13T18:03:49.768984+00:00",
+  "updated_19430": "2026-10-13T19:42:11.255048+00:00"
 }
