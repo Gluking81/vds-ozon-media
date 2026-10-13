@@ -1,5 +1,5 @@
 {
-  "last_built_utc": "2026-10-13T17:12:07.643442+00:00",
+  "last_built_utc": "2026-10-13T17:16:21.845536+00:00",
   "role": "Public original supplier EDON JPEG archive and stable URLs for Ozon importer",
   "policy": "Use only verified product JPG; no PDFs/certificates/private documents/retailer JPG under this endpoint.",
   "models": {
@@ -133,6 +133,15 @@
       }
     ],
     "24955": [
+      {
+        "filename": "edon-24955-625f6a91ced2.jpg",
+        "relative_url": "/images/edon/24955/edon-24955-625f6a91ced2.jpg",
+        "width": 1024,
+        "height": 696,
+        "sha256": "625f6a91ced2fa2014d336d8f96215ee6cabfca360c4aca0464893ba462bab61",
+        "bytes": 489809,
+        "source": "official distributor shared product photo folder"
+      },
       {
         "filename": "edon-24955-ae688c95dc9b.jpg",
         "relative_url": "/images/edon/24955/edon-24955-ae688c95dc9b.jpg",
