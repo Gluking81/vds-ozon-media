@@ -1181,5 +1181,90 @@
     ],
     "source": "same physical model rear original distributor picture, no reconstruction"
   },
-  "edon_24561_photo_deploy_at": "2026-10-14T04:46:15.611487+00:00"
+  "edon_24561_photo_deploy_at": "2026-10-14T04:46:15.611487+00:00",
+  "redbo_28526_real8_infographics": [
+    {
+      "no": 1,
+      "relative_url": "/images/redbo/28526/infographics/redbo-28526-mig285s-info-01-e9577c3596a0.jpg",
+      "name": "redbo-28526-mig285s-info-01-e9577c3596a0.jpg",
+      "sha256": "e9577c3596a0206f874a44f0e202e417537baa3b2da2d842bbfb6173ce15ae96",
+      "bytes": 208353,
+      "type": "Главный слайд",
+      "source": "real exact REDBO MIG-285S photos, 3 supplier originals +1 SKU dealer product photo"
+    },
+    {
+      "no": 2,
+      "relative_url": "/images/redbo/28526/infographics/redbo-28526-mig285s-info-02-f408120b59f6.jpg",
+      "name": "redbo-28526-mig285s-info-02-f408120b59f6.jpg",
+      "sha256": "f408120b59f6667bfe393078f81cd8c6466762ae244313454fc22a28cb02be5d",
+      "bytes": 241734,
+      "type": "Газ/без газа",
+      "source": "real exact REDBO MIG-285S photos, 3 supplier originals +1 SKU dealer product photo"
+    },
+    {
+      "no": 3,
+      "relative_url": "/images/redbo/28526/infographics/redbo-28526-mig285s-info-03-402b6fa49560.jpg",
+      "name": "redbo-28526-mig285s-info-03-402b6fa49560.jpg",
+      "sha256": "402b6fa49560b448c564b36c99870f6c7d978292161ad87d64b8654e1d5371fe",
+      "bytes": 192605,
+      "type": "Режимы сварки",
+      "source": "real exact REDBO MIG-285S photos, 3 supplier originals +1 SKU dealer product photo"
+    },
+    {
+      "no": 4,
+      "relative_url": "/images/redbo/28526/infographics/redbo-28526-mig285s-info-04-da036b01c78f.jpg",
+      "name": "redbo-28526-mig285s-info-04-da036b01c78f.jpg",
+      "sha256": "da036b01c78f007a8a3f708284fce33f24fde63a9eda377f4f08a6ec1f5ee855",
+      "bytes": 187945,
+      "type": "Основные характеристики",
+      "source": "real exact REDBO MIG-285S photos, 3 supplier originals +1 SKU dealer product photo"
+    },
+    {
+      "no": 5,
+      "relative_url": "/images/redbo/28526/infographics/redbo-28526-mig285s-info-05-cd0146654325.jpg",
+      "name": "redbo-28526-mig285s-info-05-cd0146654325.jpg",
+      "sha256": "cd0146654325acc490343eff9b03e6b89348197fd4da55250f415a7140f939eb",
+      "bytes": 439843,
+      "type": "Рабочий цикл и защита",
+      "source": "real exact REDBO MIG-285S photos, 3 supplier originals +1 SKU dealer product photo"
+    },
+    {
+      "no": 6,
+      "relative_url": "/images/redbo/28526/infographics/redbo-28526-mig285s-info-06-2ee42e030ea5.jpg",
+      "name": "redbo-28526-mig285s-info-06-2ee42e030ea5.jpg",
+      "sha256": "2ee42e030ea5e57aeaa6bfa64e34b92853d8f18324682af5f919ce2e81059150",
+      "bytes": 232978,
+      "type": "Настоящая панель",
+      "source": "real exact REDBO MIG-285S photos, 3 supplier originals +1 SKU dealer product photo"
+    },
+    {
+      "no": 7,
+      "relative_url": "/images/redbo/28526/infographics/redbo-28526-mig285s-info-07-3e3e128c71a0.jpg",
+      "name": "redbo-28526-mig285s-info-07-3e3e128c71a0.jpg",
+      "sha256": "3e3e128c71a05f1cae46f03b487dd5c5ed21d5db24b48011bfcc462a391aa11e",
+      "bytes": 400015,
+      "type": "Внутренний отсек",
+      "source": "real exact REDBO MIG-285S photos, 3 supplier originals +1 SKU dealer product photo"
+    },
+    {
+      "no": 8,
+      "relative_url": "/images/redbo/28526/infographics/redbo-28526-mig285s-info-08-81739f2c7ba0.jpg",
+      "name": "redbo-28526-mig285s-info-08-81739f2c7ba0.jpg",
+      "sha256": "81739f2c7ba099ba242d905d1cd9891d2fb023a21e9a6b093ab66f7391726102",
+      "bytes": 162908,
+      "type": "Упаковка",
+      "source": "real exact REDBO MIG-285S photos, 3 supplier originals +1 SKU dealer product photo"
+    }
+  ],
+  "redbo_28526_extra_clean_front": {
+    "no": 4,
+    "relative_url": "/images/redbo/28526/clean/redbo-28526-clean-real-front-df69ce99643a.jpg",
+    "filename": "redbo-28526-clean-real-front-df69ce99643a.jpg",
+    "sha256": "df69ce99643a73f907118af60dc27000b66163f38752b01aa3ee4f8435dc18bb",
+    "bytes": 253518,
+    "source_page": "https://www.rtc-group.ru/catalog/svarochnye_apparaty/svarochnyy_poluavtomat_s_g_i_b_g_redbo_mig_285s_do_5_kg/",
+    "exact_model_label_verified": true,
+    "supplier_use_rights_not_independently_certified": true
+  },
+  "redbo_28526_photo_stage_at": "2026-10-14T05:01:15.772568+00:00"
 }
