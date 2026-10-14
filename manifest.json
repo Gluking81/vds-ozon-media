@@ -692,5 +692,80 @@
       "source": "original true manufacturer distributor updated Smart MIG-210S, no AI reconstruction"
     }
   ],
-  "edon_24561_clean_utc": "2026-10-14T02:34:10.087885+00:00"
+  "edon_24561_clean_utc": "2026-10-14T02:34:10.087885+00:00",
+  "edon_24561_info_real_slides": [
+    {
+      "no": 1,
+      "filename": "edon-24561-infographic-01-5067a55084cb.jpg",
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-01-5067a55084cb.jpg",
+      "sha256": "5067a55084cb3de09bf6a2c5522e7386a38ca9241787a4c7317f17bcf15c6431",
+      "bytes": 242390,
+      "model": "EDON Smart MIG-210S correct actual device"
+    },
+    {
+      "no": 2,
+      "filename": "edon-24561-infographic-02-81fa5630e308.jpg",
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-02-81fa5630e308.jpg",
+      "sha256": "81fa5630e308162e7cc2c5cdffaa3e4e47aa537633c1308ba96c8d8f1bc0b5d8",
+      "bytes": 223621,
+      "model": "EDON Smart MIG-210S correct actual device"
+    },
+    {
+      "no": 3,
+      "filename": "edon-24561-infographic-03-fa233eea47c2.jpg",
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-03-fa233eea47c2.jpg",
+      "sha256": "fa233eea47c2f9267334ffd34ce6133df1b91be0df12b6142a35cf83c49a68e0",
+      "bytes": 191487,
+      "model": "EDON Smart MIG-210S correct actual device"
+    },
+    {
+      "no": 4,
+      "filename": "edon-24561-infographic-04-7a08e7bff7f2.jpg",
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-04-7a08e7bff7f2.jpg",
+      "sha256": "7a08e7bff7f26cbcb7903872aa426ac91b6b4a45e6b6b06c3e7946a7201eb029",
+      "bytes": 191136,
+      "model": "EDON Smart MIG-210S correct actual device"
+    },
+    {
+      "no": 5,
+      "filename": "edon-24561-infographic-05-22ba11f98b0a.jpg",
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-05-22ba11f98b0a.jpg",
+      "sha256": "22ba11f98b0a01d7dcf5760bca1e3499a4133a4f4ed08c745063955f31c4bb35",
+      "bytes": 153862,
+      "model": "EDON Smart MIG-210S correct actual device"
+    },
+    {
+      "no": 6,
+      "filename": "edon-24561-infographic-06-2e8b72ba042c.jpg",
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-06-2e8b72ba042c.jpg",
+      "sha256": "2e8b72ba042c2a86211943c86e8a56baf5a4d2e92157b0d3c9869c25b45bf6b2",
+      "bytes": 206545,
+      "model": "EDON Smart MIG-210S correct actual device"
+    },
+    {
+      "no": 7,
+      "filename": "edon-24561-infographic-07-be1bb1954a25.jpg",
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-07-be1bb1954a25.jpg",
+      "sha256": "be1bb1954a255f04211579b6efc01e18ac40409b016dd8bf578c3fddac28ba77",
+      "bytes": 300510,
+      "model": "EDON Smart MIG-210S correct actual device"
+    },
+    {
+      "no": 8,
+      "filename": "edon-24561-infographic-08-54328bfeb8c7.jpg",
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-08-54328bfeb8c7.jpg",
+      "sha256": "54328bfeb8c7348b13cba0894e055ceddced36ec0b8bfc5d2862ad7c3b674372",
+      "bytes": 189304,
+      "model": "EDON Smart MIG-210S correct actual device"
+    }
+  ],
+  "edon_24561_clean_extra_rear": {
+    "no": 3,
+    "filename": "edon-24561-rear-real-29361868d640.jpg",
+    "relative_url": "/images/edon/24561/clean/edon-24561-rear-real-29361868d640.jpg",
+    "sha256": "29361868d640988e5bf6e5cf878db737c90523e21ee52eac3b4edc29394ff6a7",
+    "bytes": 643055,
+    "model": "EDON Smart MIG-210S supplier rear exact"
+  },
+  "edon_24561_infographics_created_utc": "2026-10-14T03:10:31.297689+00:00"
 }
