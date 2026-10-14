@@ -941,59 +941,161 @@
   "edon_24561_real_infographics": [
     {
       "no": 1,
-      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-01-35ac7d3a8e8f.jpg",
-      "sha256": "35ac7d3a8e8f6c3bc8f92c1c601f20f635b6439850d03c4b3a6d3957656ac1c9",
-      "filename": "edon-24561-infographic-01-35ac7d3a8e8f.jpg",
-      "bytes": 288551
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-01-dd9b9b559218.jpg",
+      "filename": "edon-24561-infographic-01-dd9b9b559218.jpg",
+      "sha256": "dd9b9b55921808d8e18570d3c35547dfdd8eb3833c60e19ff00c6ffef256e80e",
+      "size": [
+        1200,
+        1600
+      ],
+      "source_photo_ids": [
+        1
+      ],
+      "source": "true verified EDON Smart MIG-210S current version, no AI-generated hardware",
+      "title": "Главный слайд",
+      "claims": [
+        "EDON Smart MIG-210S 24561 exact model",
+        "до 210 A",
+        "MIG/MAG, FCAW, MMA"
+      ]
     },
     {
       "no": 2,
-      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-02-c3ad6d030ae2.jpg",
-      "sha256": "c3ad6d030ae2aa955f186ddef3ee910a6591db0ccfbe4df557adb3d6cf91ec21",
-      "filename": "edon-24561-infographic-02-c3ad6d030ae2.jpg",
-      "bytes": 269302
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-02-b1ab3476bf7d.jpg",
+      "filename": "edon-24561-infographic-02-b1ab3476bf7d.jpg",
+      "sha256": "b1ab3476bf7db24677d7d9d16757ae5551e65c28d21dd71d7ed5325424c3743b",
+      "size": [
+        1200,
+        1600
+      ],
+      "source_photo_ids": [
+        1,
+        3
+      ],
+      "source": "true verified EDON Smart MIG-210S current version, no AI-generated hardware",
+      "title": "Газ и без газа",
+      "claims": [
+        "MIG/MAG в защитном газе",
+        "FCAW (FLUX) самозащитная проволока"
+      ]
     },
     {
       "no": 3,
-      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-03-53a3bfe478a4.jpg",
-      "sha256": "53a3bfe478a40518a96f76e66b7d1fd984e517fe9ce5c5286965e6870c935675",
-      "filename": "edon-24561-infographic-03-53a3bfe478a4.jpg",
-      "bytes": 211740
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-03-3e66b59d5159.jpg",
+      "filename": "edon-24561-infographic-03-3e66b59d5159.jpg",
+      "sha256": "3e66b59d5159ec6b7f29df0bfe37a338b7f8883285ca4d48cd354c067dd03091",
+      "size": [
+        1200,
+        1600
+      ],
+      "source_photo_ids": [
+        1
+      ],
+      "source": "true verified EDON Smart MIG-210S current version, no AI-generated hardware",
+      "title": "Режимы сварки",
+      "claims": [
+        "MIG/MAG",
+        "FCAW",
+        "MMA",
+        "Lift TIG; горелка отдельно"
+      ]
     },
     {
       "no": 4,
-      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-04-3c268d58ab61.jpg",
-      "sha256": "3c268d58ab61e660e982dad2694d0ff9e3621735b9a88e7b4a85506527621eeb",
-      "filename": "edon-24561-infographic-04-3c268d58ab61.jpg",
-      "bytes": 232612
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-04-c53edf482c65.jpg",
+      "filename": "edon-24561-infographic-04-c53edf482c65.jpg",
+      "sha256": "c53edf482c656c766521c85e51f8449b83702e5a8d77442a8b139f18256f60a7",
+      "size": [
+        1200,
+        1600
+      ],
+      "source_photo_ids": [
+        1
+      ],
+      "source": "true verified EDON Smart MIG-210S current version, no AI-generated hardware",
+      "title": "Основные характеристики",
+      "claims": [
+        "210 А Сварочный ток MIG/MMA",
+        "220 В Питание ±10%",
+        "0,8–1,0 мм Диаметр проволоки",
+        "2–4 мм Диаметр электродов"
+      ]
     },
     {
       "no": 5,
-      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-05-acb433da2b11.jpg",
-      "sha256": "acb433da2b11745dfdc19fc104234fc90fe88f8c6e5479a10d11891d98463015",
-      "filename": "edon-24561-infographic-05-acb433da2b11.jpg",
-      "bytes": 161917
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-05-bce1ea3dd634.jpg",
+      "filename": "edon-24561-infographic-05-bce1ea3dd634.jpg",
+      "sha256": "bce1ea3dd63483c022c5bb75176548641b950ba45249327a1047a9b444ae5e0a",
+      "size": [
+        1200,
+        1600
+      ],
+      "source_photo_ids": [
+        2
+      ],
+      "source": "true verified EDON Smart MIG-210S current version, no AI-generated hardware",
+      "title": "Синергетика и 2T/4T",
+      "claims": [
+        "SYN automatic setting",
+        "2T/4T control from official manual"
+      ]
     },
     {
       "no": 6,
-      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-06-f1933c7e35ab.jpg",
-      "sha256": "f1933c7e35ab91bbf52371500365c96049be7322fccb65581d3cb008e6e352c9",
-      "filename": "edon-24561-infographic-06-f1933c7e35ab.jpg",
-      "bytes": 280903
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-06-dbf58cbf560d.jpg",
+      "filename": "edon-24561-infographic-06-dbf58cbf560d.jpg",
+      "sha256": "dbf58cbf560da6ac7cf2b053a0f5f5565f89c81496a40f85ca57a005652d6079",
+      "size": [
+        1200,
+        1600
+      ],
+      "source_photo_ids": [
+        2
+      ],
+      "source": "true verified EDON Smart MIG-210S current version, no AI-generated hardware",
+      "title": "Органы управления",
+      "claims": [
+        "Натуральная цифровая панель Smart MIG-210S, без генеративной реконструкции"
+      ]
     },
     {
       "no": 7,
-      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-07-80b98dbb8174.jpg",
-      "sha256": "80b98dbb8174599b3aa44f387b3337ff446efeba9c468d24337e1b3f1d86863c",
-      "filename": "edon-24561-infographic-07-80b98dbb8174.jpg",
-      "bytes": 330589
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-07-c1cd32f82f67.jpg",
+      "filename": "edon-24561-infographic-07-c1cd32f82f67.jpg",
+      "sha256": "c1cd32f82f675336b76c26f57c4452ef73bff18b6fe1737f4b76fcff08136f91",
+      "size": [
+        1200,
+        1600
+      ],
+      "source_photo_ids": [
+        3
+      ],
+      "source": "true verified EDON Smart MIG-210S current version, no AI-generated hardware",
+      "title": "Задняя панель",
+      "claims": [
+        "Actual OEM rear panel gas inlet, power lead and vent"
+      ]
     },
     {
       "no": 8,
-      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-08-ee4558cdeb0a.jpg",
-      "sha256": "ee4558cdeb0a00fbfbc9a2cf3f1763dc5381655daf08170702620b3eaf7d3bd6",
-      "filename": "edon-24561-infographic-08-ee4558cdeb0a.jpg",
-      "bytes": 218943
+      "relative_url": "/images/edon/24561/infographics/edon-24561-infographic-08-587fe6fa7781.jpg",
+      "filename": "edon-24561-infographic-08-587fe6fa7781.jpg",
+      "sha256": "587fe6fa7781a20029f6b05d14a7ad7c5c171f9d005b2d7cbcd765854eb2996e",
+      "size": [
+        1200,
+        1600
+      ],
+      "source_photo_ids": [
+        1
+      ],
+      "source": "true verified EDON Smart MIG-210S current version, no AI-generated hardware",
+      "title": "Рабочие параметры",
+      "claims": [
+        "60% Продолжительность включения",
+        "IP21S Степень защиты корпуса",
+        "85% КПД по инструкции",
+        "Класс F Класс изоляции"
+      ]
     }
   ],
   "edon_24561_clean_rear_photo": {
@@ -1067,5 +1169,17 @@
       "source": "exact REDBO MIG-185S genuine OEM"
     }
   ],
-  "redbo_28523_updated_utc": "2026-10-14T04:17:56.496504+00:00"
+  "redbo_28523_updated_utc": "2026-10-14T04:17:56.496504+00:00",
+  "edon_24561_clean_rear_additional": {
+    "no": 3,
+    "relative_url": "/images/edon/24561/clean/edon-24561-real-rear-ff70b74d4c72.jpg",
+    "filename": "edon-24561-real-rear-ff70b74d4c72.jpg",
+    "sha256": "ff70b74d4c729ec3b8ca3b90aa16148c6cdd4b81cb11c388296a6a688c706a15",
+    "size": [
+      1200,
+      1600
+    ],
+    "source": "same physical model rear original distributor picture, no reconstruction"
+  },
+  "edon_24561_photo_deploy_at": "2026-10-14T04:46:15.611487+00:00"
 }
