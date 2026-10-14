@@ -690,6 +690,17 @@
         1600
       ],
       "source": "original true manufacturer distributor updated Smart MIG-210S, no AI reconstruction"
+    },
+    {
+      "no": 3,
+      "relative_url": "/images/edon/24561/clean/edon-24561-clean-updated-rear-0cd38da97c16.jpg",
+      "filename": "edon-24561-clean-updated-rear-0cd38da97c16.jpg",
+      "sha256": "0cd38da97c1607219572333f043370ac80e203a82108b3ba45fea862de19f355",
+      "size": [
+        1200,
+        1600
+      ],
+      "source": "real exact Smart MIG-210S rear image from distributor source"
     }
   ],
   "edon_24561_clean_utc": "2026-10-14T02:34:10.087885+00:00",
@@ -1266,5 +1277,104 @@
     "exact_model_label_verified": true,
     "supplier_use_rights_not_independently_certified": true
   },
-  "redbo_28526_photo_stage_at": "2026-10-14T05:01:15.772568+00:00"
+  "redbo_28526_photo_stage_at": "2026-10-14T05:01:15.772568+00:00",
+  "edon_24561_infographics_real_model": [
+    {
+      "no": 1,
+      "relative_url": "/images/edon/24561/infographics/edon-24561-real-infographic-01-1919e4d8e1b0.jpg",
+      "filename": "edon-24561-real-infographic-01-1919e4d8e1b0.jpg",
+      "sha256": "1919e4d8e1b001d795d2853276b108c7422451769d65d854fea8d24124d46bd9",
+      "size": [
+        1200,
+        1600
+      ],
+      "type": "Обложка",
+      "source": "true exact Smart MIG-210S front, panel and rear images, no AI equipment synthesis"
+    },
+    {
+      "no": 2,
+      "relative_url": "/images/edon/24561/infographics/edon-24561-real-infographic-02-0b8c84340149.jpg",
+      "filename": "edon-24561-real-infographic-02-0b8c84340149.jpg",
+      "sha256": "0b8c84340149c8e6b3e62472dec80e3f46580feac5dd28433f9c636647487b05",
+      "size": [
+        1200,
+        1600
+      ],
+      "type": "Газ и NoGas",
+      "source": "true exact Smart MIG-210S front, panel and rear images, no AI equipment synthesis"
+    },
+    {
+      "no": 3,
+      "relative_url": "/images/edon/24561/infographics/edon-24561-real-infographic-03-b358ccb99703.jpg",
+      "filename": "edon-24561-real-infographic-03-b358ccb99703.jpg",
+      "sha256": "b358ccb9970323ec2349144ac02bd9f77ee68e9b0dc13683ba28a9e2ab0e41a6",
+      "size": [
+        1200,
+        1600
+      ],
+      "type": "Режимы",
+      "source": "true exact Smart MIG-210S front, panel and rear images, no AI equipment synthesis"
+    },
+    {
+      "no": 4,
+      "relative_url": "/images/edon/24561/infographics/edon-24561-real-infographic-04-43973078fb85.jpg",
+      "filename": "edon-24561-real-infographic-04-43973078fb85.jpg",
+      "sha256": "43973078fb851899b9f8fcca0f8ae1ad9023a7b2236241957b024579e7d7f947",
+      "size": [
+        1200,
+        1600
+      ],
+      "type": "Технические параметры",
+      "source": "true exact Smart MIG-210S front, panel and rear images, no AI equipment synthesis"
+    },
+    {
+      "no": 5,
+      "relative_url": "/images/edon/24561/infographics/edon-24561-real-infographic-05-e8d48bf9c258.jpg",
+      "filename": "edon-24561-real-infographic-05-e8d48bf9c258.jpg",
+      "sha256": "e8d48bf9c2580738bc7acc50fbb2ff70428aa09076f788a29063177a1b12c482",
+      "size": [
+        1200,
+        1600
+      ],
+      "type": "Синергетика и управление",
+      "source": "true exact Smart MIG-210S front, panel and rear images, no AI equipment synthesis"
+    },
+    {
+      "no": 6,
+      "relative_url": "/images/edon/24561/infographics/edon-24561-real-infographic-06-518c614d443f.jpg",
+      "filename": "edon-24561-real-infographic-06-518c614d443f.jpg",
+      "sha256": "518c614d443fe756c350a841ffc3045135811e8d5d09eb8d59d50b5e13c8ee04",
+      "size": [
+        1200,
+        1600
+      ],
+      "type": "Цифровая панель",
+      "source": "true exact Smart MIG-210S front, panel and rear images, no AI equipment synthesis"
+    },
+    {
+      "no": 7,
+      "relative_url": "/images/edon/24561/infographics/edon-24561-real-infographic-07-ed39679204d3.jpg",
+      "filename": "edon-24561-real-infographic-07-ed39679204d3.jpg",
+      "sha256": "ed39679204d3e6aa22962efc6b048faf3cc4b19613870bc393e12af528959902",
+      "size": [
+        1200,
+        1600
+      ],
+      "type": "Задняя панель",
+      "source": "true exact Smart MIG-210S front, panel and rear images, no AI equipment synthesis"
+    },
+    {
+      "no": 8,
+      "relative_url": "/images/edon/24561/infographics/edon-24561-real-infographic-08-70ddeef78fa9.jpg",
+      "filename": "edon-24561-real-infographic-08-70ddeef78fa9.jpg",
+      "sha256": "70ddeef78fa9c74412eb10cf0670b17678b6a7f217574b6cbd6ef1e27ee07fd9",
+      "size": [
+        1200,
+        1600
+      ],
+      "type": "Комплектация",
+      "source": "true exact Smart MIG-210S front, panel and rear images, no AI equipment synthesis"
+    }
+  ],
+  "edon_24561_infographics_updated_utc": "2026-10-14T05:33:10.819951+00:00"
 }
