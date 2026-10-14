@@ -1000,5 +1000,72 @@
     "relative_url": "/images/edon/24561/clean/edon-24561-clean-rear-real-5dbbfaaf4384.jpg",
     "sha256": "5dbbfaaf4384ce01567574d0395557595f122f5dce004b242fcb3ee342c4bbf7"
   },
-  "edon_24561_source_updated_at": "2026-10-14T04:04:55.451208+00:00"
+  "edon_24561_source_updated_at": "2026-10-14T04:04:55.451208+00:00",
+  "redbo_28523_real_infographics": [
+    {
+      "no": 1,
+      "relative_url": "/images/redbo/28523/infographics/redbo-28523-mig185s-infographic-01-f68d0816140a.jpg",
+      "sha256": "f68d0816140a33fb72deb550ae9b5af874543921bd979c6733a31b06319494ba",
+      "filename": "redbo-28523-mig185s-infographic-01-f68d0816140a.jpg",
+      "bytes": 254760,
+      "source": "exact REDBO MIG-185S genuine OEM"
+    },
+    {
+      "no": 2,
+      "relative_url": "/images/redbo/28523/infographics/redbo-28523-mig185s-infographic-02-ab37ad8082eb.jpg",
+      "sha256": "ab37ad8082ebe92833e523207a8ae733f6d2aecbbadaad252caada2f63e4c6cd",
+      "filename": "redbo-28523-mig185s-infographic-02-ab37ad8082eb.jpg",
+      "bytes": 253154,
+      "source": "exact REDBO MIG-185S genuine OEM"
+    },
+    {
+      "no": 3,
+      "relative_url": "/images/redbo/28523/infographics/redbo-28523-mig185s-infographic-03-320ca8708975.jpg",
+      "sha256": "320ca870897589d7e68be5c1df142ed06435acb4baac7deefde5cf0d8e14545b",
+      "filename": "redbo-28523-mig185s-infographic-03-320ca8708975.jpg",
+      "bytes": 213991,
+      "source": "exact REDBO MIG-185S genuine OEM"
+    },
+    {
+      "no": 4,
+      "relative_url": "/images/redbo/28523/infographics/redbo-28523-mig185s-infographic-04-75463770d302.jpg",
+      "sha256": "75463770d302280413c592b5250ddb202260e7e4b91c4aa0795703b641dd2401",
+      "filename": "redbo-28523-mig185s-infographic-04-75463770d302.jpg",
+      "bytes": 238122,
+      "source": "exact REDBO MIG-185S genuine OEM"
+    },
+    {
+      "no": 5,
+      "relative_url": "/images/redbo/28523/infographics/redbo-28523-mig185s-infographic-05-4d8cf03a7cbc.jpg",
+      "sha256": "4d8cf03a7cbc335c91c1ac558dbbc3378bcc299bcdaa1baaae973eccef401855",
+      "filename": "redbo-28523-mig185s-infographic-05-4d8cf03a7cbc.jpg",
+      "bytes": 249207,
+      "source": "exact REDBO MIG-185S genuine OEM"
+    },
+    {
+      "no": 6,
+      "relative_url": "/images/redbo/28523/infographics/redbo-28523-mig185s-infographic-06-3b9fee953c5e.jpg",
+      "sha256": "3b9fee953c5e3c9fdd61beced4a73ac5cb5fc3b210f17027af84df4357163d92",
+      "filename": "redbo-28523-mig185s-infographic-06-3b9fee953c5e.jpg",
+      "bytes": 264409,
+      "source": "exact REDBO MIG-185S genuine OEM"
+    },
+    {
+      "no": 7,
+      "relative_url": "/images/redbo/28523/infographics/redbo-28523-mig185s-infographic-07-2d387e12df05.jpg",
+      "sha256": "2d387e12df05a43a69b89a281b29d127b923ba3d467bc406948ef5ba907b161a",
+      "filename": "redbo-28523-mig185s-infographic-07-2d387e12df05.jpg",
+      "bytes": 251160,
+      "source": "exact REDBO MIG-185S genuine OEM"
+    },
+    {
+      "no": 8,
+      "relative_url": "/images/redbo/28523/infographics/redbo-28523-mig185s-infographic-08-1c286f9a03db.jpg",
+      "sha256": "1c286f9a03db76e6770e797cbec5cacdfaf37e2740e8da41abdcc6a2e18c338e",
+      "filename": "redbo-28523-mig185s-infographic-08-1c286f9a03db.jpg",
+      "bytes": 210682,
+      "source": "exact REDBO MIG-185S genuine OEM"
+    }
+  ],
+  "redbo_28523_updated_utc": "2026-10-14T04:17:56.496504+00:00"
 }
