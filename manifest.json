@@ -870,5 +870,72 @@
       "source": "genuine updated Smart MIG-250S apparatus; text from verified official manual 250S"
     }
   ],
-  "edon_24768_info_timestamp": "2026-10-14T03:28:39.961047+00:00"
+  "edon_24768_info_timestamp": "2026-10-14T03:28:39.961047+00:00",
+  "redbo_17848_real_8_infographics": [
+    {
+      "no": 1,
+      "relative_url": "/images/redbo/17848/infographics/redbo-17848-intec-infographic-01-88d821124e20.jpg",
+      "filename": "redbo-17848-intec-infographic-01-88d821124e20.jpg",
+      "sha256": "88d821124e20c0246a983a790286179af240bc72e38f11dd66f246ee50556e58",
+      "bytes": 376441,
+      "model": "REDBO Intec MIG-205 actual genuine photos"
+    },
+    {
+      "no": 2,
+      "relative_url": "/images/redbo/17848/infographics/redbo-17848-intec-infographic-02-59e745144c1e.jpg",
+      "filename": "redbo-17848-intec-infographic-02-59e745144c1e.jpg",
+      "sha256": "59e745144c1ea50786209efcd8ee713d0c36e6f47b761cd14b62ec1b899080bd",
+      "bytes": 286935,
+      "model": "REDBO Intec MIG-205 actual genuine photos"
+    },
+    {
+      "no": 3,
+      "relative_url": "/images/redbo/17848/infographics/redbo-17848-intec-infographic-03-10c314f7d050.jpg",
+      "filename": "redbo-17848-intec-infographic-03-10c314f7d050.jpg",
+      "sha256": "10c314f7d050a01f1db4ed093c8d6768f00c0d4eb0685a48a27bfd1e53428b88",
+      "bytes": 242250,
+      "model": "REDBO Intec MIG-205 actual genuine photos"
+    },
+    {
+      "no": 4,
+      "relative_url": "/images/redbo/17848/infographics/redbo-17848-intec-infographic-04-0425a9d4783f.jpg",
+      "filename": "redbo-17848-intec-infographic-04-0425a9d4783f.jpg",
+      "sha256": "0425a9d4783f215489855e1c8c61ff59fed1452d0ff823a0a99c0f4efe370721",
+      "bytes": 273585,
+      "model": "REDBO Intec MIG-205 actual genuine photos"
+    },
+    {
+      "no": 5,
+      "relative_url": "/images/redbo/17848/infographics/redbo-17848-intec-infographic-05-610f9af204db.jpg",
+      "filename": "redbo-17848-intec-infographic-05-610f9af204db.jpg",
+      "sha256": "610f9af204db5fede6417e391ca7c213251e9845c488d4f56c8120ecb2c3ba48",
+      "bytes": 183750,
+      "model": "REDBO Intec MIG-205 actual genuine photos"
+    },
+    {
+      "no": 6,
+      "relative_url": "/images/redbo/17848/infographics/redbo-17848-intec-infographic-06-803941fcaf02.jpg",
+      "filename": "redbo-17848-intec-infographic-06-803941fcaf02.jpg",
+      "sha256": "803941fcaf02bc7b855d6120b8de495d7834f589fa7ffe9d7351e5c4717d71ad",
+      "bytes": 299667,
+      "model": "REDBO Intec MIG-205 actual genuine photos"
+    },
+    {
+      "no": 7,
+      "relative_url": "/images/redbo/17848/infographics/redbo-17848-intec-infographic-07-e02590864ade.jpg",
+      "filename": "redbo-17848-intec-infographic-07-e02590864ade.jpg",
+      "sha256": "e02590864adec33c984e43993c0a4a3b825e254baab54dbefa7cfa385f8c6166",
+      "bytes": 267153,
+      "model": "REDBO Intec MIG-205 actual genuine photos"
+    },
+    {
+      "no": 8,
+      "relative_url": "/images/redbo/17848/infographics/redbo-17848-intec-infographic-08-d355932d031f.jpg",
+      "filename": "redbo-17848-intec-infographic-08-d355932d031f.jpg",
+      "sha256": "d355932d031fdc80f5607b0215839793954fbd9fc6828aa0c109d2151417f0a4",
+      "bytes": 224615,
+      "model": "REDBO Intec MIG-205 actual genuine photos"
+    }
+  ],
+  "redbo_17848_info_created_utc": "2026-10-14T03:36:37.851989+00:00"
 }
