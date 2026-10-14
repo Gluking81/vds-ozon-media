@@ -667,5 +667,30 @@
       "type": "Комплектация"
     }
   ],
-  "edon_20520_infographics_updated_at": "2026-10-14T02:18:40.185990+00:00"
+  "edon_20520_infographics_updated_at": "2026-10-14T02:18:40.185990+00:00",
+  "edon_24561_clean_correct_model": [
+    {
+      "no": 1,
+      "relative_url": "/images/edon/24561/clean/edon-24561-clean-updated-real-01-becd1b3f9668.jpg",
+      "filename": "edon-24561-clean-updated-real-01-becd1b3f9668.jpg",
+      "sha256": "becd1b3f966827a479b4b847926af3f8cd7a3b1c9370dc0d9fbb4ad00289014c",
+      "size": [
+        1200,
+        1600
+      ],
+      "source": "original true manufacturer distributor updated Smart MIG-210S, no AI reconstruction"
+    },
+    {
+      "no": 2,
+      "relative_url": "/images/edon/24561/clean/edon-24561-clean-updated-real-02-ae2cd31d9871.jpg",
+      "filename": "edon-24561-clean-updated-real-02-ae2cd31d9871.jpg",
+      "sha256": "ae2cd31d98710eb4f69dde09d5b32ec4f42d1d315a1cb541aeaae8d804edede8",
+      "size": [
+        1200,
+        1600
+      ],
+      "source": "original true manufacturer distributor updated Smart MIG-210S, no AI reconstruction"
+    }
+  ],
+  "edon_24561_clean_utc": "2026-10-14T02:34:10.087885+00:00"
 }
