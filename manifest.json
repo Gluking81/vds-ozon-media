@@ -767,5 +767,41 @@
     "bytes": 643055,
     "model": "EDON Smart MIG-210S supplier rear exact"
   },
-  "edon_24561_infographics_created_utc": "2026-10-14T03:10:31.297689+00:00"
+  "edon_24561_infographics_created_utc": "2026-10-14T03:10:31.297689+00:00",
+  "edon_24768_clean_exact_real": [
+    {
+      "no": 1,
+      "filename": "edon-24768-real-clean-01-e84ff6d06a39.jpg",
+      "relative_url": "/images/edon/24768/clean/edon-24768-real-clean-01-e84ff6d06a39.jpg",
+      "sha256": "e84ff6d06a3929c3d284ee32a7f087c5be29f69dd9e40069aaa5253511c3d04a",
+      "source_photo": "exact EDON 24768 Smart MIG-250S picture without watermarks",
+      "size": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "no": 2,
+      "filename": "edon-24768-real-clean-02-a19ad892ea76.jpg",
+      "relative_url": "/images/edon/24768/clean/edon-24768-real-clean-02-a19ad892ea76.jpg",
+      "sha256": "a19ad892ea760210d6c434bbf047d00b58d9f76a2b03bf69ab36f5891d169a96",
+      "source_photo": "exact EDON 24768 Smart MIG-250S picture without watermarks",
+      "size": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "no": 3,
+      "filename": "edon-24768-real-clean-03-e2d000c0456a.jpg",
+      "relative_url": "/images/edon/24768/clean/edon-24768-real-clean-03-e2d000c0456a.jpg",
+      "sha256": "e2d000c0456a964ae3a37fa1cda1d3a2495b637da0ace7cc85a04e81f3ca3214",
+      "source_photo": "exact EDON 24768 Smart MIG-250S picture without watermarks",
+      "size": [
+        1200,
+        1600
+      ]
+    }
+  ],
+  "edon_24768_updated_at": "2026-10-14T03:23:26.434312+00:00"
 }
