@@ -540,5 +540,41 @@
       "status": "AWAITING_REMOTE_CDN_CONFIRMATION"
     }
   ],
-  "infographics_19430_updated_at": "2026-10-14T01:52:59.129754+00:00"
+  "infographics_19430_updated_at": "2026-10-14T01:52:59.129754+00:00",
+  "edon_20520_clean_real_photos": [
+    {
+      "no": 1,
+      "relative_url": "/images/edon/20520/clean/edon-20520-real-clean-01-91f47412499e.jpg",
+      "filename": "edon-20520-real-clean-01-91f47412499e.jpg",
+      "sha256": "91f47412499e15f554f4196481891550801180f88ee724c1b9d778433a2ee41e",
+      "width": 1200,
+      "height": 1600,
+      "genuine_source_file": "C:\\Projects\\ozon-card-factory\\data\\real_manufacturer_photos\\EDON\\20520\\20261014\\preflight\\RETAIL_5db990b5e1f1.jpg",
+      "safe_edit": "white canvas/uniform rescale",
+      "stage": "CLEAN_REAL_PHOTO"
+    },
+    {
+      "no": 2,
+      "relative_url": "/images/edon/20520/clean/edon-20520-real-clean-02-42e07a8884ba.jpg",
+      "filename": "edon-20520-real-clean-02-42e07a8884ba.jpg",
+      "sha256": "42e07a8884bafcdcac008c18c636e2b69dc4674936d617427fa4428b0e025aa9",
+      "width": 1200,
+      "height": 1600,
+      "genuine_source_file": "C:\\Projects\\ozon-card-factory\\data\\edon_clean_oem_for_live_20261013\\20520\\20520_a9adbc9e75ed.jpg",
+      "safe_edit": "white canvas/uniform rescale",
+      "stage": "CLEAN_REAL_PHOTO"
+    },
+    {
+      "no": 3,
+      "relative_url": "/images/edon/20520/clean/edon-20520-real-clean-03-0daa5cdaf96b.jpg",
+      "filename": "edon-20520-real-clean-03-0daa5cdaf96b.jpg",
+      "sha256": "0daa5cdaf96b53ac69e2bc779202b39086e94a63a664c2cbd97d4ee6236e3b08",
+      "width": 1200,
+      "height": 1600,
+      "genuine_source_file": "C:\\Projects\\ozon-card-factory\\data\\real_manufacturer_photos\\EDON\\20520\\20261014\\preflight\\RETAIL_5db990b5e1f1.jpg",
+      "safe_edit": "strict photo crop from unchanged 20520 panel, uniform rescale",
+      "stage": "CLEAN_REAL_PHOTO"
+    }
+  ],
+  "edon_20520_clean_built_utc": "2026-10-14T02:14:43.001404+00:00"
 }
