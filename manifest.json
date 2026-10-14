@@ -1630,5 +1630,96 @@
       "type": "PORTS_CROP_REAL"
     }
   ],
-  "edon_24953_source_stamp_utc": "2026-10-14T06:29:46.249520+00:00"
+  "edon_24953_source_stamp_utc": "2026-10-14T06:29:46.249520+00:00",
+  "edon_24953_real_two_knob_infographics": [
+    {
+      "no": 1,
+      "filename": "edon-24953-two-knob-infographic-01-5c42edf84a9a.jpg",
+      "relative_url": "/images/edon/24953/infographics/edon-24953-two-knob-infographic-01-5c42edf84a9a.jpg",
+      "sha256": "5c42edf84a9a42986862f26c57406ba0aaf5d0b0e63e836201770a7567eb7c35",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 536123,
+      "content": "Главный",
+      "source": "real 2 knob ProfiMIG-230 exact product photo"
+    },
+    {
+      "no": 2,
+      "filename": "edon-24953-two-knob-infographic-02-e8673ea31935.jpg",
+      "relative_url": "/images/edon/24953/infographics/edon-24953-two-knob-infographic-02-e8673ea31935.jpg",
+      "sha256": "e8673ea31935510f207300dcda19dbef91755795d8fde0ba7527b1b46f2b4e67",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 380621,
+      "content": "Газ и без газа",
+      "source": "real 2 knob ProfiMIG-230 exact product photo"
+    },
+    {
+      "no": 3,
+      "filename": "edon-24953-two-knob-infographic-03-3c6845ecf05c.jpg",
+      "relative_url": "/images/edon/24953/infographics/edon-24953-two-knob-infographic-03-3c6845ecf05c.jpg",
+      "sha256": "3c6845ecf05cb38de90519b3efa98f86af363c6c07d87681ccda3ab215e68065",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 303658,
+      "content": "Режимы",
+      "source": "real 2 knob ProfiMIG-230 exact product photo"
+    },
+    {
+      "no": 4,
+      "filename": "edon-24953-two-knob-infographic-04-7f85ea8ef1b7.jpg",
+      "relative_url": "/images/edon/24953/infographics/edon-24953-two-knob-infographic-04-7f85ea8ef1b7.jpg",
+      "sha256": "7f85ea8ef1b7db3b2b5d92364076a9c8d152a99501768d31f1d7a70e57c08c52",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 339087,
+      "content": "Характеристики",
+      "source": "real 2 knob ProfiMIG-230 exact product photo"
+    },
+    {
+      "no": 5,
+      "filename": "edon-24953-two-knob-infographic-05-9d6f31912d5f.jpg",
+      "relative_url": "/images/edon/24953/infographics/edon-24953-two-knob-infographic-05-9d6f31912d5f.jpg",
+      "sha256": "9d6f31912d5f0101a976176c3c141d1c597cc1716fd280594e372dc981fc8171",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 174072,
+      "content": "Режимы управления",
+      "source": "real 2 knob ProfiMIG-230 exact product photo"
+    },
+    {
+      "no": 6,
+      "filename": "edon-24953-two-knob-infographic-06-f5686daa8775.jpg",
+      "relative_url": "/images/edon/24953/infographics/edon-24953-two-knob-infographic-06-f5686daa8775.jpg",
+      "sha256": "f5686daa877593783d988aba02e4bc02819cb2169b0bc80caaadfc419f316e6a",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 283653,
+      "content": "Реальная панель",
+      "source": "real 2 knob ProfiMIG-230 exact product photo"
+    },
+    {
+      "no": 7,
+      "filename": "edon-24953-two-knob-infographic-07-2ce828bbdb06.jpg",
+      "relative_url": "/images/edon/24953/infographics/edon-24953-two-knob-infographic-07-2ce828bbdb06.jpg",
+      "sha256": "2ce828bbdb0602b18b471e79c1fe25487c803e69a66b8a46115f28b73c042d29",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 492507,
+      "content": "Разъёмы",
+      "source": "real 2 knob ProfiMIG-230 exact product photo"
+    },
+    {
+      "no": 8,
+      "filename": "edon-24953-two-knob-infographic-08-173ddace8c2f.jpg",
+      "relative_url": "/images/edon/24953/infographics/edon-24953-two-knob-infographic-08-173ddace8c2f.jpg",
+      "sha256": "173ddace8c2f2c05e878a04a1faeb4f1aff891c8218bccc81cab21d2581a52ae",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 241937,
+      "content": "Размеры и масса упаковки",
+      "source": "real 2 knob ProfiMIG-230 exact product photo"
+    }
+  ],
+  "edon_24953_info_created_utc": "2026-10-14T06:33:47.929945+00:00"
 }
