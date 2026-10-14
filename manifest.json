@@ -576,5 +576,96 @@
       "stage": "CLEAN_REAL_PHOTO"
     }
   ],
-  "edon_20520_clean_built_utc": "2026-10-14T02:14:43.001404+00:00"
+  "edon_20520_clean_built_utc": "2026-10-14T02:14:43.001404+00:00",
+  "edon_20520_real_infographics": [
+    {
+      "no": 1,
+      "filename": "edon-20520-infographic-01-0b9ca2c656cb.jpg",
+      "relative_url": "/images/edon/20520/infographics/edon-20520-infographic-01-0b9ca2c656cb.jpg",
+      "sha256": "0b9ca2c656cbc9cd26322bf2edfde84ff9c1671b2f55733acfbad52e4d64da1b",
+      "bytes": 269499,
+      "width": 1200,
+      "height": 1600,
+      "photo_origin": "two verified exact model product photos, no generated equipment",
+      "type": "Главный слайд"
+    },
+    {
+      "no": 2,
+      "filename": "edon-20520-infographic-02-b3febfd7d4b4.jpg",
+      "relative_url": "/images/edon/20520/infographics/edon-20520-infographic-02-b3febfd7d4b4.jpg",
+      "sha256": "b3febfd7d4b4566d45f3fee11402ffc9d305e1a926cbd6503df5fc5cb96c3a49",
+      "bytes": 223441,
+      "width": 1200,
+      "height": 1600,
+      "photo_origin": "two verified exact model product photos, no generated equipment",
+      "type": "Газ и без газа"
+    },
+    {
+      "no": 3,
+      "filename": "edon-20520-infographic-03-250c28443a8b.jpg",
+      "relative_url": "/images/edon/20520/infographics/edon-20520-infographic-03-250c28443a8b.jpg",
+      "sha256": "250c28443a8bfb58731f49ce472d01703d597b7e3e81705d912304fd0b945179",
+      "bytes": 206411,
+      "width": 1200,
+      "height": 1600,
+      "photo_origin": "two verified exact model product photos, no generated equipment",
+      "type": "Режимы сварки"
+    },
+    {
+      "no": 4,
+      "filename": "edon-20520-infographic-04-7ad77257f235.jpg",
+      "relative_url": "/images/edon/20520/infographics/edon-20520-infographic-04-7ad77257f235.jpg",
+      "sha256": "7ad77257f235542189c2ec1dc2ec1d24235ed1f5960f396f92aadb8b8bb32dae",
+      "bytes": 219870,
+      "width": 1200,
+      "height": 1600,
+      "photo_origin": "two verified exact model product photos, no generated equipment",
+      "type": "Основные характеристики"
+    },
+    {
+      "no": 5,
+      "filename": "edon-20520-infographic-05-ab2a94e4df34.jpg",
+      "relative_url": "/images/edon/20520/infographics/edon-20520-infographic-05-ab2a94e4df34.jpg",
+      "sha256": "ab2a94e4df34aa8927f3808bdb740faba3cc387b11204038e01f922700a35a15",
+      "bytes": 178675,
+      "width": 1200,
+      "height": 1600,
+      "photo_origin": "two verified exact model product photos, no generated equipment",
+      "type": "Функции MMA"
+    },
+    {
+      "no": 6,
+      "filename": "edon-20520-infographic-06-4457240c50d7.jpg",
+      "relative_url": "/images/edon/20520/infographics/edon-20520-infographic-06-4457240c50d7.jpg",
+      "sha256": "4457240c50d7e6da2a6403313156204487670237403dbded7dfe73f6a849fa69",
+      "bytes": 259226,
+      "width": 1200,
+      "height": 1600,
+      "photo_origin": "two verified exact model product photos, no generated equipment",
+      "type": "Панель и разъёмы"
+    },
+    {
+      "no": 7,
+      "filename": "edon-20520-infographic-07-a4eaf38d09e9.jpg",
+      "relative_url": "/images/edon/20520/infographics/edon-20520-infographic-07-a4eaf38d09e9.jpg",
+      "sha256": "a4eaf38d09e9c76ee1279f37bad1f483b293236dd6bcc319a6d3314f88cdcc38",
+      "bytes": 248176,
+      "width": 1200,
+      "height": 1600,
+      "photo_origin": "two verified exact model product photos, no generated equipment",
+      "type": "Внутренний отсек"
+    },
+    {
+      "no": 8,
+      "filename": "edon-20520-infographic-08-198e0851160d.jpg",
+      "relative_url": "/images/edon/20520/infographics/edon-20520-infographic-08-198e0851160d.jpg",
+      "sha256": "198e0851160d1de78f6cc5bef8706888412a8436163ccddc0c311dfbd9a4f8fa",
+      "bytes": 189933,
+      "width": 1200,
+      "height": 1600,
+      "photo_origin": "two verified exact model product photos, no generated equipment",
+      "type": "Комплектация"
+    }
+  ],
+  "edon_20520_infographics_updated_at": "2026-10-14T02:18:40.185990+00:00"
 }
