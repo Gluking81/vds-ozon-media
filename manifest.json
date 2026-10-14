@@ -1451,5 +1451,145 @@
       "source_photos": "verified real REDBO MIG-250PLUS front and back, NO AI apparatus reconstruction"
     }
   ],
-  "redbo_57105_last_source_built_utc": "2026-10-14T05:40:15.188781+00:00"
+  "redbo_57105_last_source_built_utc": "2026-10-14T05:40:15.188781+00:00",
+  "edon_28058_existing_clean7": [
+    {
+      "no": 1,
+      "filename": "edon-28058-clean-01-7e6fe4bff5f5.jpg",
+      "relative_url": "/images/edon/28058/clean/edon-28058-clean-01-7e6fe4bff5f5.jpg",
+      "sha256": "7e6fe4bff5f5e49df3b1f2428affc1d65b2f31655faff3af8722c29fea6b2b8f",
+      "bytes": 196824,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "actual Seller clean photograph of EDON SuperMIG-180"
+    },
+    {
+      "no": 2,
+      "filename": "edon-28058-clean-02-efb6730811e1.jpg",
+      "relative_url": "/images/edon/28058/clean/edon-28058-clean-02-efb6730811e1.jpg",
+      "sha256": "efb6730811e1f32e61a0f3ef7f68ecb46321e80b411427ff6185ceec4366d4f5",
+      "bytes": 218247,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "actual Seller clean photograph of EDON SuperMIG-180"
+    },
+    {
+      "no": 3,
+      "filename": "edon-28058-clean-03-3f6553edacd4.jpg",
+      "relative_url": "/images/edon/28058/clean/edon-28058-clean-03-3f6553edacd4.jpg",
+      "sha256": "3f6553edacd424bbbc76ebb68667035ab7a7fe766b976ee38f40d17aa9e7dd25",
+      "bytes": 201609,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "actual Seller clean photograph of EDON SuperMIG-180"
+    },
+    {
+      "no": 4,
+      "filename": "edon-28058-clean-04-f2c7a940721a.jpg",
+      "relative_url": "/images/edon/28058/clean/edon-28058-clean-04-f2c7a940721a.jpg",
+      "sha256": "f2c7a940721a64b466f2d5b4736933e8e6e270945dbaef7c41d44c34126d50eb",
+      "bytes": 147203,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "actual Seller clean photograph of EDON SuperMIG-180"
+    },
+    {
+      "no": 5,
+      "filename": "edon-28058-clean-05-1a9425013e27.jpg",
+      "relative_url": "/images/edon/28058/clean/edon-28058-clean-05-1a9425013e27.jpg",
+      "sha256": "1a9425013e27f19f164bcf9c26ccb89b613b9a13c142b09b176c377b6d85bfe1",
+      "bytes": 223501,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "actual Seller clean photograph of EDON SuperMIG-180"
+    },
+    {
+      "no": 6,
+      "filename": "edon-28058-clean-06-091969498a0c.jpg",
+      "relative_url": "/images/edon/28058/clean/edon-28058-clean-06-091969498a0c.jpg",
+      "sha256": "091969498a0cf15c6fe217732517f99c37346143c0b76369ab41ff235ec42bf6",
+      "bytes": 176172,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "actual Seller clean photograph of EDON SuperMIG-180"
+    },
+    {
+      "no": 7,
+      "filename": "edon-28058-clean-07-7e901402f4f9.jpg",
+      "relative_url": "/images/edon/28058/clean/edon-28058-clean-07-7e901402f4f9.jpg",
+      "sha256": "7e901402f4f99c438e0cd389834058463db429b61469114def71680858d31757",
+      "bytes": 177129,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "actual Seller clean photograph of EDON SuperMIG-180"
+    }
+  ],
+  "edon_28058_real_photo_infographics8": [
+    {
+      "no": 1,
+      "filename": "edon-28058-infographics-01-8bf85d6fe6aa.jpg",
+      "relative_url": "/images/edon/28058/infographics/edon-28058-infographics-01-8bf85d6fe6aa.jpg",
+      "sha256": "8bf85d6fe6aac3e8c3f1415f7ac6161343b77d0e566eb50031c7ad522040de0f",
+      "bytes": 227525,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "Главный слайд"
+    },
+    {
+      "no": 2,
+      "filename": "edon-28058-infographics-02-cfcd1210c0b7.jpg",
+      "relative_url": "/images/edon/28058/infographics/edon-28058-infographics-02-cfcd1210c0b7.jpg",
+      "sha256": "cfcd1210c0b7bfb5bf4759d7b754e1910a1d7858d1c78cf85b955a496ffeb7bd",
+      "bytes": 234333,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "FCAW без газа"
+    },
+    {
+      "no": 3,
+      "filename": "edon-28058-infographics-03-0472dad403c9.jpg",
+      "relative_url": "/images/edon/28058/infographics/edon-28058-infographics-03-0472dad403c9.jpg",
+      "sha256": "0472dad403c947a71d9231d8ad31618e27fabf5562562bdf49830c37a628145e",
+      "bytes": 241150,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "Режимы FCAW / MMA"
+    },
+    {
+      "no": 4,
+      "filename": "edon-28058-infographics-04-d0b61ed1ec11.jpg",
+      "relative_url": "/images/edon/28058/infographics/edon-28058-infographics-04-d0b61ed1ec11.jpg",
+      "sha256": "d0b61ed1ec11976ec356f061f62d79484d7083d48fb556ba7cb3c6e54e68166f",
+      "bytes": 232871,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "Подтверждённые характеристики"
+    },
+    {
+      "no": 5,
+      "filename": "edon-28058-infographics-05-97a9af01fef0.jpg",
+      "relative_url": "/images/edon/28058/infographics/edon-28058-infographics-05-97a9af01fef0.jpg",
+      "sha256": "97a9af01fef0f0f5f53f9b3af9829cf031dc6ce1c61a49bbe41ecd8342c4fec6",
+      "bytes": 218661,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "Реальная панель"
+    },
+    {
+      "no": 6,
+      "filename": "edon-28058-infographics-06-aa8272c84306.jpg",
+      "relative_url": "/images/edon/28058/infographics/edon-28058-infographics-06-aa8272c84306.jpg",
+      "sha256": "aa8272c84306585407fc35c1c450efd22502018ae07e053b3a30371015b527ed",
+      "bytes": 230318,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "Комплектация"
+    },
+    {
+      "no": 7,
+      "filename": "edon-28058-infographics-07-309d616a0969.jpg",
+      "relative_url": "/images/edon/28058/infographics/edon-28058-infographics-07-309d616a0969.jpg",
+      "sha256": "309d616a096929edc85663bd9dc56386b025546ba40e35403dcb03c9ddd64443",
+      "bytes": 192725,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "Подающий механизм"
+    },
+    {
+      "no": 8,
+      "filename": "edon-28058-infographics-08-cccbe18545f8.jpg",
+      "relative_url": "/images/edon/28058/infographics/edon-28058-infographics-08-cccbe18545f8.jpg",
+      "sha256": "cccbe18545f871a5de1797b07e4fb47ed79ba77310d5a83bdd6a91a36a827082",
+      "bytes": 216981,
+      "source": "real exact EDON SuperMIG-180 physical photographs (no gas FCAW/MMA model)",
+      "type": "Корпус и вентиляция"
+    }
+  ],
+  "edon_28058_prep_date": "2026-10-14T05:52:09.205649+00:00"
 }
