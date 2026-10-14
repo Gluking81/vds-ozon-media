@@ -1591,5 +1591,44 @@
       "type": "Корпус и вентиляция"
     }
   ],
-  "edon_28058_prep_date": "2026-10-14T05:52:09.205649+00:00"
+  "edon_28058_prep_date": "2026-10-14T05:52:09.205649+00:00",
+  "edon_24953_clean_two_knob_photo": [
+    {
+      "no": 1,
+      "relative_url": "/images/edon/24953/clean/edon-24953-two-knob-clean-01-081993a74d75.jpg",
+      "filename": "edon-24953-two-knob-clean-01-081993a74d75.jpg",
+      "sha256": "081993a74d75d3224eae880082fca68d852d22993fee58459c4bdac3f186d90c",
+      "size": [
+        1200,
+        1600
+      ],
+      "real_photo": "exact old two front knob Edon Profi MIG-230",
+      "type": "FRONT_SIDE_REAL"
+    },
+    {
+      "no": 2,
+      "relative_url": "/images/edon/24953/clean/edon-24953-two-knob-clean-02-39ccded94978.jpg",
+      "filename": "edon-24953-two-knob-clean-02-39ccded94978.jpg",
+      "sha256": "39ccded949787e45e16244627e0ae85bf36619a5edf7ee1b8d4c8bee9b7424df",
+      "size": [
+        1200,
+        1600
+      ],
+      "real_photo": "exact old two front knob Edon Profi MIG-230",
+      "type": "FRONT_PANEL_REAL"
+    },
+    {
+      "no": 3,
+      "relative_url": "/images/edon/24953/clean/edon-24953-two-knob-clean-03-80fe0983cb7b.jpg",
+      "filename": "edon-24953-two-knob-clean-03-80fe0983cb7b.jpg",
+      "sha256": "80fe0983cb7b7181cf07cbfc83a01660ca2e2e76c84b057bcc4c44723ca8e9e2",
+      "size": [
+        1200,
+        1600
+      ],
+      "real_photo": "exact old two front knob Edon Profi MIG-230",
+      "type": "PORTS_CROP_REAL"
+    }
+  ],
+  "edon_24953_source_stamp_utc": "2026-10-14T06:29:46.249520+00:00"
 }
