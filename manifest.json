@@ -433,5 +433,112 @@
     ]
   },
   "last_redbo_build_utc": "2026-10-13T18:03:49.768984+00:00",
-  "updated_19430": "2026-10-13T19:42:11.255048+00:00"
+  "updated_19430": "2026-10-13T19:42:11.255048+00:00",
+  "infographics_19430": [
+    {
+      "number": 1,
+      "src_path": "C:\\Projects\\ozon-card-factory\\output\\slide_factory\\19430\\02_INFOGRAPHICS_UPDATED_DIGITAL\\19430_SLIDE_01_INFOGRAPHIC_REAL_MODEL_3x4.jpg",
+      "filename": "edon-19430-infographic-01-ffef01e7cd16.jpg",
+      "relative_url": "/images/edon/19430/infographics/edon-19430-infographic-01-ffef01e7cd16.jpg",
+      "sha256": "ffef01e7cd16d7ea6145d80624424194842570475a4b6718dcab16e9e3e7cd8a",
+      "bytes": 288481,
+      "width": 1200,
+      "height": 1600,
+      "type": "Главный слайд",
+      "source": "cleaned REAL exact UPDATED DIGITAL product model; no AI hardware edits",
+      "status": "AWAITING_REMOTE_CDN_CONFIRMATION"
+    },
+    {
+      "number": 2,
+      "src_path": "C:\\Projects\\ozon-card-factory\\output\\slide_factory\\19430\\02_INFOGRAPHICS_UPDATED_DIGITAL\\19430_SLIDE_02_INFOGRAPHIC_REAL_MODEL_3x4.jpg",
+      "filename": "edon-19430-infographic-02-d60189759c42.jpg",
+      "relative_url": "/images/edon/19430/infographics/edon-19430-infographic-02-d60189759c42.jpg",
+      "sha256": "d60189759c4295ef89c9b462a424dfb7ecbaaa050d662e7884ee068a418ae4f5",
+      "bytes": 210041,
+      "width": 1200,
+      "height": 1600,
+      "type": "Газ / без газа",
+      "source": "cleaned REAL exact UPDATED DIGITAL product model; no AI hardware edits",
+      "status": "AWAITING_REMOTE_CDN_CONFIRMATION"
+    },
+    {
+      "number": 3,
+      "src_path": "C:\\Projects\\ozon-card-factory\\output\\slide_factory\\19430\\02_INFOGRAPHICS_UPDATED_DIGITAL\\19430_SLIDE_03_INFOGRAPHIC_REAL_MODEL_3x4.jpg",
+      "filename": "edon-19430-infographic-03-594a69b7fb3a.jpg",
+      "relative_url": "/images/edon/19430/infographics/edon-19430-infographic-03-594a69b7fb3a.jpg",
+      "sha256": "594a69b7fb3a6a1fa11ce8e1f9c0072c47896b94ab4a907a4984155b30e7588c",
+      "bytes": 209967,
+      "width": 1200,
+      "height": 1600,
+      "type": "Режимы сварки",
+      "source": "cleaned REAL exact UPDATED DIGITAL product model; no AI hardware edits",
+      "status": "AWAITING_REMOTE_CDN_CONFIRMATION"
+    },
+    {
+      "number": 4,
+      "src_path": "C:\\Projects\\ozon-card-factory\\output\\slide_factory\\19430\\02_INFOGRAPHICS_UPDATED_DIGITAL\\19430_SLIDE_04_INFOGRAPHIC_REAL_MODEL_3x4.jpg",
+      "filename": "edon-19430-infographic-04-2dfb0c0e07e2.jpg",
+      "relative_url": "/images/edon/19430/infographics/edon-19430-infographic-04-2dfb0c0e07e2.jpg",
+      "sha256": "2dfb0c0e07e25b8811108ef394100ed147c051ed9bd598cde48ccb9818880fb6",
+      "bytes": 251413,
+      "width": 1200,
+      "height": 1600,
+      "type": "Технические характеристики",
+      "source": "cleaned REAL exact UPDATED DIGITAL product model; no AI hardware edits",
+      "status": "AWAITING_REMOTE_CDN_CONFIRMATION"
+    },
+    {
+      "number": 5,
+      "src_path": "C:\\Projects\\ozon-card-factory\\output\\slide_factory\\19430\\02_INFOGRAPHICS_UPDATED_DIGITAL\\19430_SLIDE_05_INFOGRAPHIC_REAL_MODEL_3x4.jpg",
+      "filename": "edon-19430-infographic-05-d28a3cf308fc.jpg",
+      "relative_url": "/images/edon/19430/infographics/edon-19430-infographic-05-d28a3cf308fc.jpg",
+      "sha256": "d28a3cf308fc678bea0d2e2260ae8808d98d9485b610d298e719a6a66d070e81",
+      "bytes": 167214,
+      "width": 1200,
+      "height": 1600,
+      "type": "MMA-функции",
+      "source": "cleaned REAL exact UPDATED DIGITAL product model; no AI hardware edits",
+      "status": "AWAITING_REMOTE_CDN_CONFIRMATION"
+    },
+    {
+      "number": 6,
+      "src_path": "C:\\Projects\\ozon-card-factory\\output\\slide_factory\\19430\\02_INFOGRAPHICS_UPDATED_DIGITAL\\19430_SLIDE_06_INFOGRAPHIC_REAL_MODEL_3x4.jpg",
+      "filename": "edon-19430-infographic-06-6f162b3fb063.jpg",
+      "relative_url": "/images/edon/19430/infographics/edon-19430-infographic-06-6f162b3fb063.jpg",
+      "sha256": "6f162b3fb063edb8395849437cd7c9497cbcb2b6d49165852ef875c6b34ca68f",
+      "bytes": 219366,
+      "width": 1200,
+      "height": 1600,
+      "type": "Панель управления",
+      "source": "cleaned REAL exact UPDATED DIGITAL product model; no AI hardware edits",
+      "status": "AWAITING_REMOTE_CDN_CONFIRMATION"
+    },
+    {
+      "number": 7,
+      "src_path": "C:\\Projects\\ozon-card-factory\\output\\slide_factory\\19430\\02_INFOGRAPHICS_UPDATED_DIGITAL\\19430_SLIDE_07_INFOGRAPHIC_REAL_MODEL_3x4.jpg",
+      "filename": "edon-19430-infographic-07-956f0e6d6e8c.jpg",
+      "relative_url": "/images/edon/19430/infographics/edon-19430-infographic-07-956f0e6d6e8c.jpg",
+      "sha256": "956f0e6d6e8c3a7314a179505b72b9f0c9649f9a7a182a7fc3d84e05f68d64fb",
+      "bytes": 199747,
+      "width": 1200,
+      "height": 1600,
+      "type": "Комплектация",
+      "source": "cleaned REAL exact UPDATED DIGITAL product model; no AI hardware edits",
+      "status": "AWAITING_REMOTE_CDN_CONFIRMATION"
+    },
+    {
+      "number": 8,
+      "src_path": "C:\\Projects\\ozon-card-factory\\output\\slide_factory\\19430\\02_INFOGRAPHICS_UPDATED_DIGITAL\\19430_SLIDE_08_INFOGRAPHIC_REAL_MODEL_3x4.jpg",
+      "filename": "edon-19430-infographic-08-3a365f4a1975.jpg",
+      "relative_url": "/images/edon/19430/infographics/edon-19430-infographic-08-3a365f4a1975.jpg",
+      "sha256": "3a365f4a19753b3dcb7ae3114e47bcc10629204d6a65a05e947518747e2ba6bd",
+      "bytes": 177953,
+      "width": 1200,
+      "height": 1600,
+      "type": "Упаковка и вес",
+      "source": "cleaned REAL exact UPDATED DIGITAL product model; no AI hardware edits",
+      "status": "AWAITING_REMOTE_CDN_CONFIRMATION"
+    }
+  ],
+  "infographics_19430_updated_at": "2026-10-14T01:52:59.129754+00:00"
 }
