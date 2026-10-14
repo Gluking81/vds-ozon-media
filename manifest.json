@@ -1721,5 +1721,112 @@
       "source": "real 2 knob ProfiMIG-230 exact product photo"
     }
   ],
-  "edon_24953_info_created_utc": "2026-10-14T06:33:47.929945+00:00"
+  "edon_24953_info_created_utc": "2026-10-14T06:33:47.929945+00:00",
+  "edon_40591_new8_infographics": [
+    {
+      "number": 1,
+      "filename": "edon-40591-fcaw-slide-01-991def6663c9.jpg",
+      "relative_url": "/images/edon/40591/infographics/edon-40591-fcaw-slide-01-991def6663c9.jpg",
+      "sha256": "991def6663c98aac5dadf65b741b7727323971ade21048a954e053ac32f43c17",
+      "bytes": 255667,
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "manufacturer_exact_model": "Smart MIG-170 FCAW no shielding gas",
+      "fact_basis": "https://cdn.vseinstrumenti.ru/instruction/nomenclaturecontent/202512/57303722.pdf/21507884_manual.pdf"
+    },
+    {
+      "number": 2,
+      "filename": "edon-40591-fcaw-slide-02-6cb1847f921a.jpg",
+      "relative_url": "/images/edon/40591/infographics/edon-40591-fcaw-slide-02-6cb1847f921a.jpg",
+      "sha256": "6cb1847f921a862101f866676bd1e071121068a999252fdc874659ef51bf3ea3",
+      "bytes": 265850,
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "manufacturer_exact_model": "Smart MIG-170 FCAW no shielding gas",
+      "fact_basis": "https://cdn.vseinstrumenti.ru/instruction/nomenclaturecontent/202512/57303722.pdf/21507884_manual.pdf"
+    },
+    {
+      "number": 3,
+      "filename": "edon-40591-fcaw-slide-03-81b9ca6fffe1.jpg",
+      "relative_url": "/images/edon/40591/infographics/edon-40591-fcaw-slide-03-81b9ca6fffe1.jpg",
+      "sha256": "81b9ca6fffe13c3ab7550f592917311208d3724cbd80362d68ab25f7f5de646f",
+      "bytes": 214659,
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "manufacturer_exact_model": "Smart MIG-170 FCAW no shielding gas",
+      "fact_basis": "https://cdn.vseinstrumenti.ru/instruction/nomenclaturecontent/202512/57303722.pdf/21507884_manual.pdf"
+    },
+    {
+      "number": 4,
+      "filename": "edon-40591-fcaw-slide-04-bca7ad57a94c.jpg",
+      "relative_url": "/images/edon/40591/infographics/edon-40591-fcaw-slide-04-bca7ad57a94c.jpg",
+      "sha256": "bca7ad57a94cfa4dd52d7d6ae32692ea65b03a07aac0e934aaed5f6779bd8823",
+      "bytes": 240982,
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "manufacturer_exact_model": "Smart MIG-170 FCAW no shielding gas",
+      "fact_basis": "https://cdn.vseinstrumenti.ru/instruction/nomenclaturecontent/202512/57303722.pdf/21507884_manual.pdf"
+    },
+    {
+      "number": 5,
+      "filename": "edon-40591-fcaw-slide-05-7b8c0e7ed3d6.jpg",
+      "relative_url": "/images/edon/40591/infographics/edon-40591-fcaw-slide-05-7b8c0e7ed3d6.jpg",
+      "sha256": "7b8c0e7ed3d67a2671f2006ea79cdfe8d2f50415dc0fab3409d1b518dac521a7",
+      "bytes": 156711,
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "manufacturer_exact_model": "Smart MIG-170 FCAW no shielding gas",
+      "fact_basis": "https://cdn.vseinstrumenti.ru/instruction/nomenclaturecontent/202512/57303722.pdf/21507884_manual.pdf"
+    },
+    {
+      "number": 6,
+      "filename": "edon-40591-fcaw-slide-06-b0965413a06f.jpg",
+      "relative_url": "/images/edon/40591/infographics/edon-40591-fcaw-slide-06-b0965413a06f.jpg",
+      "sha256": "b0965413a06f126587fa40b78786554e1a6c551dcc4163af57e86eb20e41c86b",
+      "bytes": 353074,
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "manufacturer_exact_model": "Smart MIG-170 FCAW no shielding gas",
+      "fact_basis": "https://cdn.vseinstrumenti.ru/instruction/nomenclaturecontent/202512/57303722.pdf/21507884_manual.pdf"
+    },
+    {
+      "number": 7,
+      "filename": "edon-40591-fcaw-slide-07-fe55bcd787d2.jpg",
+      "relative_url": "/images/edon/40591/infographics/edon-40591-fcaw-slide-07-fe55bcd787d2.jpg",
+      "sha256": "fe55bcd787d20925928eac711c6dacc5139658c232664ccc056dbfc433c2ddf0",
+      "bytes": 176070,
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "manufacturer_exact_model": "Smart MIG-170 FCAW no shielding gas",
+      "fact_basis": "https://cdn.vseinstrumenti.ru/instruction/nomenclaturecontent/202512/57303722.pdf/21507884_manual.pdf"
+    },
+    {
+      "number": 8,
+      "filename": "edon-40591-fcaw-slide-08-518a21be6f30.jpg",
+      "relative_url": "/images/edon/40591/infographics/edon-40591-fcaw-slide-08-518a21be6f30.jpg",
+      "sha256": "518a21be6f307d2f33421e7b63007d45611e0d5823430e37ca740ab07f1e2c62",
+      "bytes": 243205,
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "manufacturer_exact_model": "Smart MIG-170 FCAW no shielding gas",
+      "fact_basis": "https://cdn.vseinstrumenti.ru/instruction/nomenclaturecontent/202512/57303722.pdf/21507884_manual.pdf"
+    }
+  ],
+  "edon_40591_updated_at": "2026-10-14T08:11:59.226668+00:00"
 }
