@@ -803,5 +803,72 @@
       ]
     }
   ],
-  "edon_24768_updated_at": "2026-10-14T03:23:26.434312+00:00"
+  "edon_24768_updated_at": "2026-10-14T03:23:26.434312+00:00",
+  "edon_24768_infographics_real": [
+    {
+      "no": 1,
+      "filename": "edon-24768-real-infographic-01-7a1eb0b7b1fb.jpg",
+      "relative_url": "/images/edon/24768/infographics/edon-24768-real-infographic-01-7a1eb0b7b1fb.jpg",
+      "sha256": "7a1eb0b7b1fbcc214d35d6cbe583303015c2abc42706a60d4a4224bdc71a3dba",
+      "bytes": 205458,
+      "source": "genuine updated Smart MIG-250S apparatus; text from verified official manual 250S"
+    },
+    {
+      "no": 2,
+      "filename": "edon-24768-real-infographic-02-7eebd27ad1c9.jpg",
+      "relative_url": "/images/edon/24768/infographics/edon-24768-real-infographic-02-7eebd27ad1c9.jpg",
+      "sha256": "7eebd27ad1c94d6d6afb44656bacd06d74c5265e06e55c73a41a0900fc2794ea",
+      "bytes": 195636,
+      "source": "genuine updated Smart MIG-250S apparatus; text from verified official manual 250S"
+    },
+    {
+      "no": 3,
+      "filename": "edon-24768-real-infographic-03-1a5d48cfc855.jpg",
+      "relative_url": "/images/edon/24768/infographics/edon-24768-real-infographic-03-1a5d48cfc855.jpg",
+      "sha256": "1a5d48cfc8552d49eb101b324ba4d4e27724e8dfc0847297c418f5434b558fc0",
+      "bytes": 177988,
+      "source": "genuine updated Smart MIG-250S apparatus; text from verified official manual 250S"
+    },
+    {
+      "no": 4,
+      "filename": "edon-24768-real-infographic-04-23bd1c19a899.jpg",
+      "relative_url": "/images/edon/24768/infographics/edon-24768-real-infographic-04-23bd1c19a899.jpg",
+      "sha256": "23bd1c19a8994fe131e925e0fc6ab2e00c79d41d842b350826ff8d10de6081fd",
+      "bytes": 172667,
+      "source": "genuine updated Smart MIG-250S apparatus; text from verified official manual 250S"
+    },
+    {
+      "no": 5,
+      "filename": "edon-24768-real-infographic-05-b50344cb2e81.jpg",
+      "relative_url": "/images/edon/24768/infographics/edon-24768-real-infographic-05-b50344cb2e81.jpg",
+      "sha256": "b50344cb2e8173276dd0f154eabe4b97ddb710da6eacffa3e3c87aab02d02595",
+      "bytes": 149866,
+      "source": "genuine updated Smart MIG-250S apparatus; text from verified official manual 250S"
+    },
+    {
+      "no": 6,
+      "filename": "edon-24768-real-infographic-06-37ace3732c9f.jpg",
+      "relative_url": "/images/edon/24768/infographics/edon-24768-real-infographic-06-37ace3732c9f.jpg",
+      "sha256": "37ace3732c9f4ed2731c3b6d73f91d575c4e066dcd60eb568b798e1d43429cd4",
+      "bytes": 188958,
+      "source": "genuine updated Smart MIG-250S apparatus; text from verified official manual 250S"
+    },
+    {
+      "no": 7,
+      "filename": "edon-24768-real-infographic-07-2c2832eb5d5f.jpg",
+      "relative_url": "/images/edon/24768/infographics/edon-24768-real-infographic-07-2c2832eb5d5f.jpg",
+      "sha256": "2c2832eb5d5f794593ad0609d6d74d796c02b0fb2ee607e5ad520bd28dfa6082",
+      "bytes": 169013,
+      "source": "genuine updated Smart MIG-250S apparatus; text from verified official manual 250S"
+    },
+    {
+      "no": 8,
+      "filename": "edon-24768-real-infographic-08-e81201ceb8e4.jpg",
+      "relative_url": "/images/edon/24768/infographics/edon-24768-real-infographic-08-e81201ceb8e4.jpg",
+      "sha256": "e81201ceb8e4608fc2d3154c4171f352009c0e8a0020feff7ca7675bf979b604",
+      "bytes": 170662,
+      "source": "genuine updated Smart MIG-250S apparatus; text from verified official manual 250S"
+    }
+  ],
+  "edon_24768_info_timestamp": "2026-10-14T03:28:39.961047+00:00"
 }
