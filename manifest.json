@@ -1376,5 +1376,80 @@
       "source": "true exact Smart MIG-210S front, panel and rear images, no AI equipment synthesis"
     }
   ],
-  "edon_24561_infographics_updated_utc": "2026-10-14T05:33:10.819951+00:00"
+  "edon_24561_infographics_updated_utc": "2026-10-14T05:33:10.819951+00:00",
+  "redbo_57105_eight_infographics": [
+    {
+      "no": 1,
+      "sha256": "6d0d2cd82f3cee0def7113514193122692729234cb5516d800360ba0bc5cedab",
+      "filename": "redbo-57105-infographic-01-6d0d2cd82f3c.jpg",
+      "relative_url": "/images/redbo/57105/infographics/redbo-57105-infographic-01-6d0d2cd82f3c.jpg",
+      "description": "Главный слайд",
+      "bytes": 275649,
+      "source_photos": "verified real REDBO MIG-250PLUS front and back, NO AI apparatus reconstruction"
+    },
+    {
+      "no": 2,
+      "sha256": "c7bec54dc4ed40eb68dfbbb43477aebc978db01c41ac7e474865c3a416fb04ed",
+      "filename": "redbo-57105-infographic-02-c7bec54dc4ed.jpg",
+      "relative_url": "/images/redbo/57105/infographics/redbo-57105-infographic-02-c7bec54dc4ed.jpg",
+      "description": "Газ и без газа",
+      "bytes": 201954,
+      "source_photos": "verified real REDBO MIG-250PLUS front and back, NO AI apparatus reconstruction"
+    },
+    {
+      "no": 3,
+      "sha256": "7ac3075f32f803be585b66ada9df52b05cfb5e5c67ae3e89fc332138b02399c8",
+      "filename": "redbo-57105-infographic-03-7ac3075f32f8.jpg",
+      "relative_url": "/images/redbo/57105/infographics/redbo-57105-infographic-03-7ac3075f32f8.jpg",
+      "description": "Импульсный режим",
+      "bytes": 178705,
+      "source_photos": "verified real REDBO MIG-250PLUS front and back, NO AI apparatus reconstruction"
+    },
+    {
+      "no": 4,
+      "sha256": "c317acc8a7b933e10db312aa62c97fec9d43014eb0cd78d2a954a6bd008f2cee",
+      "filename": "redbo-57105-infographic-04-c317acc8a7b9.jpg",
+      "relative_url": "/images/redbo/57105/infographics/redbo-57105-infographic-04-c317acc8a7b9.jpg",
+      "description": "Режимы сварки",
+      "bytes": 212694,
+      "source_photos": "verified real REDBO MIG-250PLUS front and back, NO AI apparatus reconstruction"
+    },
+    {
+      "no": 5,
+      "sha256": "cb3d94f35f41f7bc0c2fadfb302613985d3bf9f0cf392c09131d0d2c522f9633",
+      "filename": "redbo-57105-infographic-05-cb3d94f35f41.jpg",
+      "relative_url": "/images/redbo/57105/infographics/redbo-57105-infographic-05-cb3d94f35f41.jpg",
+      "description": "Основные параметры",
+      "bytes": 221782,
+      "source_photos": "verified real REDBO MIG-250PLUS front and back, NO AI apparatus reconstruction"
+    },
+    {
+      "no": 6,
+      "sha256": "7a596e2810e8c7c0146f1048b61ed8b9e027cc2f40918fea543c2c6ebacdb2ae",
+      "filename": "redbo-57105-infographic-06-7a596e2810e8.jpg",
+      "relative_url": "/images/redbo/57105/infographics/redbo-57105-infographic-06-7a596e2810e8.jpg",
+      "description": "Панель и режимы",
+      "bytes": 261281,
+      "source_photos": "verified real REDBO MIG-250PLUS front and back, NO AI apparatus reconstruction"
+    },
+    {
+      "no": 7,
+      "sha256": "9714bde5bacf8d04c981492549f255904016d3ce51ee602cc3160b31f3b2b6e8",
+      "filename": "redbo-57105-infographic-07-9714bde5bacf.jpg",
+      "relative_url": "/images/redbo/57105/infographics/redbo-57105-infographic-07-9714bde5bacf.jpg",
+      "description": "Задняя панель",
+      "bytes": 129656,
+      "source_photos": "verified real REDBO MIG-250PLUS front and back, NO AI apparatus reconstruction"
+    },
+    {
+      "no": 8,
+      "sha256": "28f298fe8ec38992baf24a254ea9221faa0a3683f65e051db025318965d7f125",
+      "filename": "redbo-57105-infographic-08-28f298fe8ec3.jpg",
+      "relative_url": "/images/redbo/57105/infographics/redbo-57105-infographic-08-28f298fe8ec3.jpg",
+      "description": "Упаковка",
+      "bytes": 189636,
+      "source_photos": "verified real REDBO MIG-250PLUS front and back, NO AI apparatus reconstruction"
+    }
+  ],
+  "redbo_57105_last_source_built_utc": "2026-10-14T05:40:15.188781+00:00"
 }
