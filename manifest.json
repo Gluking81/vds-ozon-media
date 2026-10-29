@@ -2883,5 +2883,86 @@
     ]
   },
   "torch_slide_gallery_status": "SOURCE_STAGED_PUBLIC_NOT_YET_VERIFIED_OZON_NOT_MODIFIED",
-  "torch_slide_gallery_created_utc": "2026-10-29T08:29:20.692149+00:00"
+  "torch_slide_gallery_created_utc": "2026-10-29T08:29:20.692149+00:00",
+  "torch_0700025242R_wave2_20261029": [
+    {
+      "asset": "ESAB_0700025242R_slide05.jpg",
+      "filename": "esab-0700025242r-slide05-40f61e544259.jpg",
+      "relative_url": "/images/torches/20261029/0700025242R/esab-0700025242r-slide05-40f61e544259.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/esab-0700025242r-slide05-40f61e544259.jpg",
+      "sha256": "40f61e544259066a9d4b9fa2c5e11db1b4942ea417668f6674e24e961c2378ad",
+      "bytes": 118189,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://vdsperm.ru/zapchasti/mxl-341/"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025242R_slide06.jpg",
+      "filename": "esab-0700025242r-slide06-d73f88c08fb7.jpg",
+      "relative_url": "/images/torches/20261029/0700025242R/esab-0700025242r-slide06-d73f88c08fb7.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/esab-0700025242r-slide06-d73f88c08fb7.jpg",
+      "sha256": "d73f88c08fb7cf92a4f477bc8c648c1f8baba10f0a6461bed5fd99f34f2cb9e5",
+      "bytes": 118196,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://vdsperm.ru/zapchasti/mxl-341/"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025242R_slide07.jpg",
+      "filename": "esab-0700025242r-slide07-16a16ed02bfa.jpg",
+      "relative_url": "/images/torches/20261029/0700025242R/esab-0700025242r-slide07-16a16ed02bfa.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/esab-0700025242r-slide07-16a16ed02bfa.jpg",
+      "sha256": "16a16ed02bfa177ee8bf245331fb82a60f22f327d1a9d814533cd38dacf297e7",
+      "bytes": 124779,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://vdsperm.ru/zapchasti/mxl-341/"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025242R_slide08.jpg",
+      "filename": "esab-0700025242r-slide08-f911bb137c02.jpg",
+      "relative_url": "/images/torches/20261029/0700025242R/esab-0700025242r-slide08-f911bb137c02.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/esab-0700025242r-slide08-f911bb137c02.jpg",
+      "sha256": "f911bb137c02d36ef97871f234f9ff97f1c4a19af2db542c8993356acbd621b4",
+      "bytes": 132717,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://vdsperm.ru/zapchasti/mxl-341/"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025242R_RICH_HERO_DESKTOP_1416.jpg",
+      "filename": "esab-0700025242r-rich-hero-desktop-1416-950c458ba7e7.jpg",
+      "relative_url": "/images/torches/20261029/0700025242R/esab-0700025242r-rich-hero-desktop-1416-950c458ba7e7.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/esab-0700025242r-rich-hero-desktop-1416-950c458ba7e7.jpg",
+      "sha256": "950c458ba7e7d86d6828823b51927bde56978a9031e7763f5889352f905fe2cb",
+      "bytes": 53175,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://vdsperm.ru/zapchasti/mxl-341/"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025242R_RICH_HERO_MOBILE_708.jpg",
+      "filename": "esab-0700025242r-rich-hero-mobile-708-2859f424adad.jpg",
+      "relative_url": "/images/torches/20261029/0700025242R/esab-0700025242r-rich-hero-mobile-708-2859f424adad.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/esab-0700025242r-rich-hero-mobile-708-2859f424adad.jpg",
+      "sha256": "2859f424adada4be96d012aa53e1ef084f9663477b6374b7896f3a98cc7f9913",
+      "bytes": 34402,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://vdsperm.ru/zapchasti/mxl-341/"
+      ]
+    }
+  ],
+  "torch_0700025242R_wave2_created_utc": "2026-10-29T12:05:19.916149+00:00"
 }
