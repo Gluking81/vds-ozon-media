@@ -1867,5 +1867,1021 @@
     }
   ],
   "edon_40591_updated_at": "2026-10-14T08:11:59.226668+00:00",
-  "esab_0700025260_staged_utc": "2026-10-29T07:43:49.286862+00:00"
+  "esab_0700025260_staged_utc": "2026-10-29T07:43:49.286862+00:00",
+  "torch_slide_gallery_20261029": {
+    "0700025242R": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/torch-0700025242R-slide01-aab88204397e.jpg",
+        "relative_url": "/images/torches/20261029/0700025242R/torch-0700025242R-slide01-aab88204397e.jpg",
+        "sha256": "aab88204397e04b0cdc10e1e7d53ce3775b3cbc8ad5a4d2c3a1df882f4e27e8d",
+        "bytes": 121552,
+        "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/torch-0700025242R-slide02-df7141a2be0e.jpg",
+        "relative_url": "/images/torches/20261029/0700025242R/torch-0700025242R-slide02-df7141a2be0e.jpg",
+        "sha256": "df7141a2be0ec032607ce07f9dfba127d4f094aa27702e93b15cf89fedd31ff8",
+        "bytes": 121362,
+        "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/torch-0700025242R-slide03-0916a772e7d2.jpg",
+        "relative_url": "/images/torches/20261029/0700025242R/torch-0700025242R-slide03-0916a772e7d2.jpg",
+        "sha256": "0916a772e7d2bb49127b9154aee8ae3e86c2d72b7775005fe28891bf2c0bd561",
+        "bytes": 119667,
+        "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025242R/torch-0700025242R-slide04-62b01bb5d7a1.jpg",
+        "relative_url": "/images/torches/20261029/0700025242R/torch-0700025242R-slide04-62b01bb5d7a1.jpg",
+        "sha256": "62b01bb5d7a1fb761dc8c06d2dff9ae3e4c7910778eb8f5bd28eae8a2feb8e5a",
+        "bytes": 121881,
+        "photo_source_url": "https://pike.esab.ru/assets/img/mxl-341.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "0700025260": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025260/torch-0700025260-slide01-d07bbfc24355.jpg",
+        "relative_url": "/images/torches/20261029/0700025260/torch-0700025260-slide01-d07bbfc24355.jpg",
+        "sha256": "d07bbfc24355ba3648af43f5a8b75dcb87b5b5df78903fd744a5abe80acb3187",
+        "bytes": 282390,
+        "photo_source_url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/esab/0700025260/esab-mxl-511w-3m-real-main-6d9e86a8f0d1.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025260/torch-0700025260-slide02-082ae19e8a7b.jpg",
+        "relative_url": "/images/torches/20261029/0700025260/torch-0700025260-slide02-082ae19e8a7b.jpg",
+        "sha256": "082ae19e8a7b16828a1956f994cb7f0d12f8b249fe4c2c1b2ac39886747d5cb3",
+        "bytes": 233547,
+        "photo_source_url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/esab/0700025260/esab-mxl-511w-3m-real-main-6d9e86a8f0d1.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025260/torch-0700025260-slide03-9d5537547a06.jpg",
+        "relative_url": "/images/torches/20261029/0700025260/torch-0700025260-slide03-9d5537547a06.jpg",
+        "sha256": "9d5537547a0626a177421b81514505f26d007e1108cd2b4bf81153daa1abdffd",
+        "bytes": 241140,
+        "photo_source_url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/esab/0700025260/esab-mxl-511w-3m-real-main-6d9e86a8f0d1.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025260/torch-0700025260-slide04-3cc004ad6305.jpg",
+        "relative_url": "/images/torches/20261029/0700025260/torch-0700025260-slide04-3cc004ad6305.jpg",
+        "sha256": "3cc004ad6305095472a102b30d4fb8efee76780dbbfdda6965572af75589f843",
+        "bytes": 184359,
+        "photo_source_url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/esab/0700025260/esab-mxl-511w-3m-real-main-6d9e86a8f0d1.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "0700025262R": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/torch-0700025262R-slide01-9512380e3508.jpg",
+        "relative_url": "/images/torches/20261029/0700025262R/torch-0700025262R-slide01-9512380e3508.jpg",
+        "sha256": "9512380e350873c7f951f0919f8fe0a76816acb0bbe0da2a57fac0dbee4abf34",
+        "bytes": 124495,
+        "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/torch-0700025262R-slide02-3178eb7904cc.jpg",
+        "relative_url": "/images/torches/20261029/0700025262R/torch-0700025262R-slide02-3178eb7904cc.jpg",
+        "sha256": "3178eb7904cc3d7b99fa2b18b596e52e014ee3d394aed26f77d6f85b67418f1e",
+        "bytes": 124247,
+        "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/torch-0700025262R-slide03-8b238363714c.jpg",
+        "relative_url": "/images/torches/20261029/0700025262R/torch-0700025262R-slide03-8b238363714c.jpg",
+        "sha256": "8b238363714cc4eff4ef5a6ab3dd458ffa5233eb8be4e15468002ea8bbea58e3",
+        "bytes": 120786,
+        "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/torch-0700025262R-slide04-bd03f45d134f.jpg",
+        "relative_url": "/images/torches/20261029/0700025262R/torch-0700025262R-slide04-bd03f45d134f.jpg",
+        "sha256": "bd03f45d134f72c8a0edc9f7e7c4f6c64fa354c386c8a9ee90be5b2d8e9b564c",
+        "bytes": 123022,
+        "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "0700026403R": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/torch-0700026403R-slide01-264d96d8ae95.jpg",
+        "relative_url": "/images/torches/20261029/0700026403R/torch-0700026403R-slide01-264d96d8ae95.jpg",
+        "sha256": "264d96d8ae9528d80c42ff65810e054910daca26489180908a1c657c0618e259",
+        "bytes": 118645,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/torch-0700026403R-slide02-b70b5d713c61.jpg",
+        "relative_url": "/images/torches/20261029/0700026403R/torch-0700026403R-slide02-b70b5d713c61.jpg",
+        "sha256": "b70b5d713c6168f8b48f5bb3c6b1d4509f6fbad5948a009f8bef90117e6aac67",
+        "bytes": 118910,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/torch-0700026403R-slide03-bcdddbab69d5.jpg",
+        "relative_url": "/images/torches/20261029/0700026403R/torch-0700026403R-slide03-bcdddbab69d5.jpg",
+        "sha256": "bcdddbab69d5f519b98a61a70e0af88c59f3fb446a046fa7f28539456e820ba5",
+        "bytes": 116615,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/torch-0700026403R-slide04-a5e04bcbb1ac.jpg",
+        "relative_url": "/images/torches/20261029/0700026403R/torch-0700026403R-slide04-a5e04bcbb1ac.jpg",
+        "sha256": "a5e04bcbb1aca8be77bcf16f31f182c0d70c9e58da7669c644edbe872b05d68f",
+        "bytes": 120191,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "0700026408R": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026408R/torch-0700026408R-slide01-c2140e3dcedc.jpg",
+        "relative_url": "/images/torches/20261029/0700026408R/torch-0700026408R-slide01-c2140e3dcedc.jpg",
+        "sha256": "c2140e3dcedc8fa177907aeb30f65b96fac477fea09379b4efa78f134d81c208",
+        "bytes": 118156,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-415.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026408R/torch-0700026408R-slide02-9f243beb9071.jpg",
+        "relative_url": "/images/torches/20261029/0700026408R/torch-0700026408R-slide02-9f243beb9071.jpg",
+        "sha256": "9f243beb90718900fd54eb846e54d65eb216af6ff1d1b687de0052cd5a8a4745",
+        "bytes": 118438,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-415.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026408R/torch-0700026408R-slide03-db979702c86e.jpg",
+        "relative_url": "/images/torches/20261029/0700026408R/torch-0700026408R-slide03-db979702c86e.jpg",
+        "sha256": "db979702c86ee4bfdfd0fd96b53de1717e98a594f43e9e192943fdced38c45fa",
+        "bytes": 117404,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-415.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026408R/torch-0700026408R-slide04-fbe3d356e127.jpg",
+        "relative_url": "/images/torches/20261029/0700026408R/torch-0700026408R-slide04-fbe3d356e127.jpg",
+        "sha256": "fbe3d356e12765af347463629e9618691c25cc41f6249ea974eeddd133dcec41",
+        "bytes": 120124,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-415.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "0700026415R": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026415R/torch-0700026415R-slide01-69ff304088ae.jpg",
+        "relative_url": "/images/torches/20261029/0700026415R/torch-0700026415R-slide01-69ff304088ae.jpg",
+        "sha256": "69ff304088aeaece70d3a92d6b6ec167a29c48357895e721ea47eb1e32dd165f",
+        "bytes": 128930,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-420w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026415R/torch-0700026415R-slide02-5ce719b83f40.jpg",
+        "relative_url": "/images/torches/20261029/0700026415R/torch-0700026415R-slide02-5ce719b83f40.jpg",
+        "sha256": "5ce719b83f406dd0471524aae78e088de05b77d28646b4ff6bb6ca927b7a206d",
+        "bytes": 128489,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-420w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026415R/torch-0700026415R-slide03-676333480254.jpg",
+        "relative_url": "/images/torches/20261029/0700026415R/torch-0700026415R-slide03-676333480254.jpg",
+        "sha256": "676333480254919f12ba35abe3f8474cfc20b5de4647124ca540a5cc7fa6e13d",
+        "bytes": 124375,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-420w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026415R/torch-0700026415R-slide04-c567d9e7ecbe.jpg",
+        "relative_url": "/images/torches/20261029/0700026415R/torch-0700026415R-slide04-c567d9e7ecbe.jpg",
+        "sha256": "c567d9e7ecbe8742c7286936875c02b89044468d0eb1fbe24e11267f2e86f186",
+        "bytes": 123967,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-420w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "0700026417R": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026417R/torch-0700026417R-slide01-563689d4b91d.jpg",
+        "relative_url": "/images/torches/20261029/0700026417R/torch-0700026417R-slide01-563689d4b91d.jpg",
+        "sha256": "563689d4b91d136a9509860a3773e310574bc7685a95949577ca2af3696d5f91",
+        "bytes": 128359,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-420w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026417R/torch-0700026417R-slide02-92e1c219eb62.jpg",
+        "relative_url": "/images/torches/20261029/0700026417R/torch-0700026417R-slide02-92e1c219eb62.jpg",
+        "sha256": "92e1c219eb62eac3d738b447b2e401711de117fc78b552c8d65ed35d995ae5dc",
+        "bytes": 128222,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-420w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026417R/torch-0700026417R-slide03-b6146b3a9145.jpg",
+        "relative_url": "/images/torches/20261029/0700026417R/torch-0700026417R-slide03-b6146b3a9145.jpg",
+        "sha256": "b6146b3a9145e66d179b5bc613f15274cf6935a13bea920d1bee1b7730abfd3c",
+        "bytes": 124371,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-420w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026417R/torch-0700026417R-slide04-0db34d7acd40.jpg",
+        "relative_url": "/images/torches/20261029/0700026417R/torch-0700026417R-slide04-0db34d7acd40.jpg",
+        "sha256": "0db34d7acd40accf80e7d0d8619f1da7e44f0683101e8fc2d54ab97b262bb6a9",
+        "bytes": 123774,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-420w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "0700026427R": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026427R/torch-0700026427R-slide01-1381cb8b6443.jpg",
+        "relative_url": "/images/torches/20261029/0700026427R/torch-0700026427R-slide01-1381cb8b6443.jpg",
+        "sha256": "1381cb8b6443a4d95b8f6783b111bc82f875ab1988f57d0868dac0c0e4f3ce22",
+        "bytes": 121521,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-520w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026427R/torch-0700026427R-slide02-adc7331fc325.jpg",
+        "relative_url": "/images/torches/20261029/0700026427R/torch-0700026427R-slide02-adc7331fc325.jpg",
+        "sha256": "adc7331fc325d8c4211ac6ab881e70640f3ace4b76ec90eb45ceaf632bc1435e",
+        "bytes": 122009,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-520w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026427R/torch-0700026427R-slide03-2ed0a18797db.jpg",
+        "relative_url": "/images/torches/20261029/0700026427R/torch-0700026427R-slide03-2ed0a18797db.jpg",
+        "sha256": "2ed0a18797dbcbfa352a1ededf3e0b9d57faf1bbb734350b6cda7fae68bea5be",
+        "bytes": 118059,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-520w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026427R/torch-0700026427R-slide04-8eeacb175a70.jpg",
+        "relative_url": "/images/torches/20261029/0700026427R/torch-0700026427R-slide04-8eeacb175a70.jpg",
+        "sha256": "8eeacb175a7094f8b1e528c2c0846f5ed6f0d374aa0f6e051636f8635ecdefa7",
+        "bytes": 120802,
+        "photo_source_url": "https://pike.esab.ru/assets/img/psf-520w.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "163P3Y2330": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2330/torch-163P3Y2330-slide01-eddd389e9552.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2330/torch-163P3Y2330-slide01-eddd389e9552.jpg",
+        "sha256": "eddd389e9552f2e8666b19a9e450f8e206fa5d1696ff1a2be3edec5b97ba7080",
+        "bytes": 111845,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2330/torch-163P3Y2330-slide02-978822dcfe1a.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2330/torch-163P3Y2330-slide02-978822dcfe1a.jpg",
+        "sha256": "978822dcfe1a986665fad244671edec0865d76d637abd2e2ff56ee64f063b5dc",
+        "bytes": 114652,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2330/torch-163P3Y2330-slide03-466ff476d6a1.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2330/torch-163P3Y2330-slide03-466ff476d6a1.jpg",
+        "sha256": "466ff476d6a16230aa0500c8e3bf4a0ec013aadf6e95b111eeee4de1edba929b",
+        "bytes": 116889,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2330/torch-163P3Y2330-slide04-a02e95b4a89d.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2330/torch-163P3Y2330-slide04-a02e95b4a89d.jpg",
+        "sha256": "a02e95b4a89d502cadeace46d99655c65ae44300091ef1263133518f3980557b",
+        "bytes": 121980,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "163P3Y2340": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2340/torch-163P3Y2340-slide01-0e1137171353.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2340/torch-163P3Y2340-slide01-0e1137171353.jpg",
+        "sha256": "0e1137171353946dda5cf771f6d3beb26a22f0e6c750b5d03eb24efffc39696a",
+        "bytes": 111279,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2340/torch-163P3Y2340-slide02-41cc3c33c54d.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2340/torch-163P3Y2340-slide02-41cc3c33c54d.jpg",
+        "sha256": "41cc3c33c54d233583606f4ebbb0d03cd9b6a7cbf3f56d9953a6c19cab5ec26e",
+        "bytes": 114277,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2340/torch-163P3Y2340-slide03-99fc5b992fe9.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2340/torch-163P3Y2340-slide03-99fc5b992fe9.jpg",
+        "sha256": "99fc5b992fe984bb184e70ed6f4f82669c7d9ee4bfab2e3de251f6f5e82d2f23",
+        "bytes": 116595,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2340/torch-163P3Y2340-slide04-a4ab9d60c659.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2340/torch-163P3Y2340-slide04-a4ab9d60c659.jpg",
+        "sha256": "a4ab9d60c659803b7491e66fee23dab848a4443ff37a858cf670f81f45871036",
+        "bytes": 122114,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "163P3Y2350": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2350/torch-163P3Y2350-slide01-ec035bf6f842.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2350/torch-163P3Y2350-slide01-ec035bf6f842.jpg",
+        "sha256": "ec035bf6f842421ef96cf7d7f4dfd716011ed33b1ed26989cb6114605911438e",
+        "bytes": 111651,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2350/torch-163P3Y2350-slide02-9a134e4af2d9.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2350/torch-163P3Y2350-slide02-9a134e4af2d9.jpg",
+        "sha256": "9a134e4af2d9edc0aa65324138b00a7ac83eaf113d21c139d27470ca3c3bf1d8",
+        "bytes": 114422,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2350/torch-163P3Y2350-slide03-d7681abca338.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2350/torch-163P3Y2350-slide03-d7681abca338.jpg",
+        "sha256": "d7681abca33835cb0d345bedf0a4283b22d64ed61b20f6c5b23a7c7b9a58818c",
+        "bytes": 116771,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/163P3Y2350/torch-163P3Y2350-slide04-1d6b942e3043.jpg",
+        "relative_url": "/images/torches/20261029/163P3Y2350/torch-163P3Y2350-slide04-1d6b942e3043.jpg",
+        "sha256": "1d6b942e3043fd53f9a727dfaaeb090eb84a9b7b6d257227760420aabb4bef02",
+        "bytes": 121201,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/b4f/1wl80hu0yjb6orn48ocoreiju1ab8kfq.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "165P342330": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/165P342330/torch-165P342330-slide01-97e4cca8d248.jpg",
+        "relative_url": "/images/torches/20261029/165P342330/torch-165P342330-slide01-97e4cca8d248.jpg",
+        "sha256": "97e4cca8d248fe6a28545abec2bbedb0266cee949cf50abba433cdcff7616754",
+        "bytes": 134209,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/10e/nb7wu1hzjw834tfqru45y1k7zb3cftcy.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/165P342330/torch-165P342330-slide02-73465cbdcb3e.jpg",
+        "relative_url": "/images/torches/20261029/165P342330/torch-165P342330-slide02-73465cbdcb3e.jpg",
+        "sha256": "73465cbdcb3e1a64f80c1541cbc313e4961fabb2a5cb8201033273143a364d4b",
+        "bytes": 140008,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/10e/nb7wu1hzjw834tfqru45y1k7zb3cftcy.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/165P342330/torch-165P342330-slide03-3a571619c34c.jpg",
+        "relative_url": "/images/torches/20261029/165P342330/torch-165P342330-slide03-3a571619c34c.jpg",
+        "sha256": "3a571619c34caa3595a8c9e5b7d2c10a44c2cd33012ced44c91026084fb4f35b",
+        "bytes": 145147,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/10e/nb7wu1hzjw834tfqru45y1k7zb3cftcy.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/165P342330/torch-165P342330-slide04-603de578bfce.jpg",
+        "relative_url": "/images/torches/20261029/165P342330/torch-165P342330-slide04-603de578bfce.jpg",
+        "sha256": "603de578bfce2126732e11ea1a71e9e3be7f072388d4d2aecbcda80cc9c294c9",
+        "bytes": 136982,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/10e/nb7wu1hzjw834tfqru45y1k7zb3cftcy.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "165P342340": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/165P342340/torch-165P342340-slide01-59e0e504c04d.jpg",
+        "relative_url": "/images/torches/20261029/165P342340/torch-165P342340-slide01-59e0e504c04d.jpg",
+        "sha256": "59e0e504c04da7f9507428e3a22553590bdd9eca65fb84b6636a46eba0783d65",
+        "bytes": 133516,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/10e/nb7wu1hzjw834tfqru45y1k7zb3cftcy.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/165P342340/torch-165P342340-slide02-8d4542cece21.jpg",
+        "relative_url": "/images/torches/20261029/165P342340/torch-165P342340-slide02-8d4542cece21.jpg",
+        "sha256": "8d4542cece216c772ff974d074707fbf6751b64c715dd9611c46c200893fef05",
+        "bytes": 139661,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/10e/nb7wu1hzjw834tfqru45y1k7zb3cftcy.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/165P342340/torch-165P342340-slide03-3d5733a1dc1c.jpg",
+        "relative_url": "/images/torches/20261029/165P342340/torch-165P342340-slide03-3d5733a1dc1c.jpg",
+        "sha256": "3d5733a1dc1c97d4a59bfbba661a06a4316a02610a7d2df4af46e0b260e827ef",
+        "bytes": 144878,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/10e/nb7wu1hzjw834tfqru45y1k7zb3cftcy.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/165P342340/torch-165P342340-slide04-0f569d808303.jpg",
+        "relative_url": "/images/torches/20261029/165P342340/torch-165P342340-slide04-0f569d808303.jpg",
+        "sha256": "0f569d8083034c0007354e0ea7b713b9f55c3e98eecf2a9f9d9316fa54c76ef6",
+        "bytes": 133487,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/10e/nb7wu1hzjw834tfqru45y1k7zb3cftcy.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "172P542530": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/172P542530/torch-172P542530-slide01-ce3ba9a64d58.jpg",
+        "relative_url": "/images/torches/20261029/172P542530/torch-172P542530-slide01-ce3ba9a64d58.jpg",
+        "sha256": "ce3ba9a64d58e03ca6e966266597044b30074b0a683ea722f8c9616d8983001a",
+        "bytes": 112260,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/274/bffmzwe7d47au060sehppiwwryqess65.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/172P542530/torch-172P542530-slide02-c44486c05073.jpg",
+        "relative_url": "/images/torches/20261029/172P542530/torch-172P542530-slide02-c44486c05073.jpg",
+        "sha256": "c44486c05073b4cfec3393c5ff8ad6e5d49ed96c02edaed777ce897b9fed1d9b",
+        "bytes": 115050,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/274/bffmzwe7d47au060sehppiwwryqess65.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/172P542530/torch-172P542530-slide03-d4f3aeb0c7c6.jpg",
+        "relative_url": "/images/torches/20261029/172P542530/torch-172P542530-slide03-d4f3aeb0c7c6.jpg",
+        "sha256": "d4f3aeb0c7c619480469005df904af984070adade6980f207789fb2f30e83a0c",
+        "bytes": 116821,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/274/bffmzwe7d47au060sehppiwwryqess65.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/172P542530/torch-172P542530-slide04-3cbe681afc57.jpg",
+        "relative_url": "/images/torches/20261029/172P542530/torch-172P542530-slide04-3cbe681afc57.jpg",
+        "sha256": "3cbe681afc57d596597f2b20ef92e296cb3ed314b38b4c3fce5aab5665ebd6a0",
+        "bytes": 121747,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/274/bffmzwe7d47au060sehppiwwryqess65.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "172P542540": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/172P542540/torch-172P542540-slide01-64dfae97a7ba.jpg",
+        "relative_url": "/images/torches/20261029/172P542540/torch-172P542540-slide01-64dfae97a7ba.jpg",
+        "sha256": "64dfae97a7ba70d22d9599e65e27a2ca368963c0b4515d2162a2384768257a52",
+        "bytes": 111734,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/274/bffmzwe7d47au060sehppiwwryqess65.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/172P542540/torch-172P542540-slide02-8f2d9169b267.jpg",
+        "relative_url": "/images/torches/20261029/172P542540/torch-172P542540-slide02-8f2d9169b267.jpg",
+        "sha256": "8f2d9169b267a4cf7ebb083b30c3fcd6b364dcb4b4ed92ee28b4d71964d4d103",
+        "bytes": 115100,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/274/bffmzwe7d47au060sehppiwwryqess65.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/172P542540/torch-172P542540-slide03-afb6a681e38c.jpg",
+        "relative_url": "/images/torches/20261029/172P542540/torch-172P542540-slide03-afb6a681e38c.jpg",
+        "sha256": "afb6a681e38cbacb2e99a4a7c45898efacc62a6f79d84e71fbc298bc84622ab8",
+        "bytes": 116566,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/274/bffmzwe7d47au060sehppiwwryqess65.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/172P542540/torch-172P542540-slide04-e9e8814ba758.jpg",
+        "relative_url": "/images/torches/20261029/172P542540/torch-172P542540-slide04-e9e8814ba758.jpg",
+        "sha256": "e9e8814ba7583907ecb73c4cd17377b4549ff3b1b5d216ba7b0cf02ea220ee7c",
+        "bytes": 121854,
+        "photo_source_url": "https://www.ventsvar.ru/upload/iblock/274/bffmzwe7d47au060sehppiwwryqess65.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "ICH2395": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICH2395/torch-ICH2395-slide01-10feedc631ac.jpg",
+        "relative_url": "/images/torches/20261029/ICH2395/torch-ICH2395-slide01-10feedc631ac.jpg",
+        "sha256": "10feedc631ac9bb24292bdae72b2cb3ed5c6a7a5ad9eea6537ea36e03205bdce",
+        "bytes": 137778,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_500_1_1_1.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICH2395/torch-ICH2395-slide02-d2a6ece7ab1c.jpg",
+        "relative_url": "/images/torches/20261029/ICH2395/torch-ICH2395-slide02-d2a6ece7ab1c.jpg",
+        "sha256": "d2a6ece7ab1c38a25550e1385e3bb38902bc8a3a100a596c86e5389d856a669f",
+        "bytes": 142395,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_500_1_1_1.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICH2395/torch-ICH2395-slide03-2193d603d01f.jpg",
+        "relative_url": "/images/torches/20261029/ICH2395/torch-ICH2395-slide03-2193d603d01f.jpg",
+        "sha256": "2193d603d01fd8d3d4d0b075b4f3fb03c920c745c7de329aac2d19d1e54451d2",
+        "bytes": 140598,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_500_1_1_1.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICH2395/torch-ICH2395-slide04-9f0c43150d1c.jpg",
+        "relative_url": "/images/torches/20261029/ICH2395/torch-ICH2395-slide04-9f0c43150d1c.jpg",
+        "sha256": "9f0c43150d1c4a1e2dbb89121dd0488d6284c4f3f5f6b8e5dc85942f6d5039c4",
+        "bytes": 134180,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_500_1_1_1.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "ICT1912": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT1912/torch-ICT1912-slide01-dc51a880ec87.jpg",
+        "relative_url": "/images/torches/20261029/ICT1912/torch-ICT1912-slide01-dc51a880ec87.jpg",
+        "sha256": "dc51a880ec87483dd1650632f6a29b499d12c741bee53a582a46f8b7e67022a2",
+        "bytes": 132452,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_450_1_0_1.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT1912/torch-ICT1912-slide02-19bfe864f48a.jpg",
+        "relative_url": "/images/torches/20261029/ICT1912/torch-ICT1912-slide02-19bfe864f48a.jpg",
+        "sha256": "19bfe864f48ae1ba0e326e699b2cd8b0d8607b5ad8ccf7e2082ade60a495adc4",
+        "bytes": 137538,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_450_1_0_1.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT1912/torch-ICT1912-slide03-2d166d5a8c74.jpg",
+        "relative_url": "/images/torches/20261029/ICT1912/torch-ICT1912-slide03-2d166d5a8c74.jpg",
+        "sha256": "2d166d5a8c743715ca5cc6ccc1bcac0ef13608cae16423c5b7e1dbfc054f0a81",
+        "bytes": 136145,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_450_1_0_1.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT1912/torch-ICT1912-slide04-e4b413cf3521.jpg",
+        "relative_url": "/images/torches/20261029/ICT1912/torch-ICT1912-slide04-e4b413cf3521.jpg",
+        "sha256": "e4b413cf3521244bef81221d3d037a6607be91fa1af3a2c3f74f0b69e2ce4432",
+        "bytes": 129499,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_450_1_0_1.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "ICT2046-15": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2046-15/torch-ICT2046-15-slide01-a8258ee5f143.jpg",
+        "relative_url": "/images/torches/20261029/ICT2046-15/torch-ICT2046-15-slide01-a8258ee5f143.jpg",
+        "sha256": "a8258ee5f143812862244d3c623d2e10dc51b7416647af1ba7a23013d5f9cdef",
+        "bytes": 181110,
+        "photo_source_url": "https://aurora-online.ru/upload/iblock/10a/twqarnumo2in0xx2vtt8opgwwzwb35ef/qgjcnsaewrcx7sh35bt3bi2ok1ny1j75.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2046-15/torch-ICT2046-15-slide02-6ea355264b11.jpg",
+        "relative_url": "/images/torches/20261029/ICT2046-15/torch-ICT2046-15-slide02-6ea355264b11.jpg",
+        "sha256": "6ea355264b119c2610d31eb1663b4fe7340feca580edb2bb491a7de4043988dd",
+        "bytes": 169025,
+        "photo_source_url": "https://aurora-online.ru/upload/iblock/10a/twqarnumo2in0xx2vtt8opgwwzwb35ef/qgjcnsaewrcx7sh35bt3bi2ok1ny1j75.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2046-15/torch-ICT2046-15-slide03-5c5a6cd1746c.jpg",
+        "relative_url": "/images/torches/20261029/ICT2046-15/torch-ICT2046-15-slide03-5c5a6cd1746c.jpg",
+        "sha256": "5c5a6cd1746c00783e2e7ddca529f0fe2c3ad69b89fd841bea47b082537c7e56",
+        "bytes": 166010,
+        "photo_source_url": "https://aurora-online.ru/upload/iblock/10a/twqarnumo2in0xx2vtt8opgwwzwb35ef/qgjcnsaewrcx7sh35bt3bi2ok1ny1j75.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2046-15/torch-ICT2046-15-slide04-f1ac705d2490.jpg",
+        "relative_url": "/images/torches/20261029/ICT2046-15/torch-ICT2046-15-slide04-f1ac705d2490.jpg",
+        "sha256": "f1ac705d2490d0d625b4a9c514fd4cf930bed1931fac8fd03fb8dd97607b5693",
+        "bytes": 143382,
+        "photo_source_url": "https://aurora-online.ru/upload/iblock/10a/twqarnumo2in0xx2vtt8opgwwzwb35ef/qgjcnsaewrcx7sh35bt3bi2ok1ny1j75.jpg",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "ICT2095": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2095/torch-ICT2095-slide01-02f4e1ab3e1f.jpg",
+        "relative_url": "/images/torches/20261029/ICT2095/torch-ICT2095-slide01-02f4e1ab3e1f.jpg",
+        "sha256": "02f4e1ab3e1fb8dc8ff3fc1f65272dff0ee4b02d7ce9ac3e767228f5db73ed6d",
+        "bytes": 137832,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_15_1_0_5.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2095/torch-ICT2095-slide02-514a4b638f52.jpg",
+        "relative_url": "/images/torches/20261029/ICT2095/torch-ICT2095-slide02-514a4b638f52.jpg",
+        "sha256": "514a4b638f523d02f70c4911328fb2ea755c894761283a4f1f1c25c45b9fc78f",
+        "bytes": 141789,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_15_1_0_5.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2095/torch-ICT2095-slide03-3ed1d7d01411.jpg",
+        "relative_url": "/images/torches/20261029/ICT2095/torch-ICT2095-slide03-3ed1d7d01411.jpg",
+        "sha256": "3ed1d7d014114485da63e1e621ef5d22688431c351267a94d3a32277fe87a239",
+        "bytes": 141543,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_15_1_0_5.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2095/torch-ICT2095-slide04-c2138bc7e808.jpg",
+        "relative_url": "/images/torches/20261029/ICT2095/torch-ICT2095-slide04-c2138bc7e808.jpg",
+        "sha256": "c2138bc7e808730441746184b91be8e7c353f3b283ac5d4c5995d1b810fc0824",
+        "bytes": 133064,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_15_1_0_5.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "ICT2098": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2098/torch-ICT2098-slide01-18863282bd05.jpg",
+        "relative_url": "/images/torches/20261029/ICT2098/torch-ICT2098-slide01-18863282bd05.jpg",
+        "sha256": "18863282bd05fd1d0776567fd3dfaef7be99a0a0d484120ba84ff97ba37a2640",
+        "bytes": 138304,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_15_1_0_3.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2098/torch-ICT2098-slide02-0f8616d2fd00.jpg",
+        "relative_url": "/images/torches/20261029/ICT2098/torch-ICT2098-slide02-0f8616d2fd00.jpg",
+        "sha256": "0f8616d2fd005e3f0e74d8daa0ce527d0dc139b5362b06bf3cf80560fb50526e",
+        "bytes": 142045,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_15_1_0_3.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2098/torch-ICT2098-slide03-6d0ceeeadb1b.jpg",
+        "relative_url": "/images/torches/20261029/ICT2098/torch-ICT2098-slide03-6d0ceeeadb1b.jpg",
+        "sha256": "6d0ceeeadb1bcad5c540fe5fe087a6ec09347017497997d2bc0d55c0a206bc0e",
+        "bytes": 141655,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_15_1_0_3.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2098/torch-ICT2098-slide04-57c268f6d439.jpg",
+        "relative_url": "/images/torches/20261029/ICT2098/torch-ICT2098-slide04-57c268f6d439.jpg",
+        "sha256": "57c268f6d439984a34ca18fd656fe35fa18d20aeff78439a062004caf4069910",
+        "bytes": 132949,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_15_1_0_3.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "ICT2995": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2995/torch-ICT2995-slide01-a7ae6c0c58f4.jpg",
+        "relative_url": "/images/torches/20261029/ICT2995/torch-ICT2995-slide01-a7ae6c0c58f4.jpg",
+        "sha256": "a7ae6c0c58f4cc6b007e14e7bd9acf1d4003adc5479a1c2cc8b1f625d999928d",
+        "bytes": 133861,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_36_1_0-min_0_5.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2995/torch-ICT2995-slide02-3af6a8b98162.jpg",
+        "relative_url": "/images/torches/20261029/ICT2995/torch-ICT2995-slide02-3af6a8b98162.jpg",
+        "sha256": "3af6a8b9816280706291452dc1be8e389062bf1c01408023139b403e71d0f0cc",
+        "bytes": 138394,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_36_1_0-min_0_5.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2995/torch-ICT2995-slide03-b17c89e5ba0a.jpg",
+        "relative_url": "/images/torches/20261029/ICT2995/torch-ICT2995-slide03-b17c89e5ba0a.jpg",
+        "sha256": "b17c89e5ba0aa1259ef7952d4cad1accd35c09f6a701c0b3c65ddb7df120be0a",
+        "bytes": 137592,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_36_1_0-min_0_5.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICT2995/torch-ICT2995-slide04-a47e8ee08204.jpg",
+        "relative_url": "/images/torches/20261029/ICT2995/torch-ICT2995-slide04-a47e8ee08204.jpg",
+        "sha256": "a47e8ee08204c84137090e2775ed57aa4f00b7ef64e6c441ea1bd5eca4c8e816",
+        "bytes": 130977,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech_ms_36_1_0-min_0_5.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ],
+    "ICTF2098": [
+      {
+        "slide_number": 1,
+        "type": "COVER",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICTF2098/torch-ICTF2098-slide01-fb478cde80e3.jpg",
+        "relative_url": "/images/torches/20261029/ICTF2098/torch-ICTF2098-slide01-fb478cde80e3.jpg",
+        "sha256": "fb478cde80e37d97dc8b7ec9982fad037695674bd6eee915942c155aeee8bd77",
+        "bytes": 136449,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech-ms-15f-4_2.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 2,
+        "type": "MIGMAG",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICTF2098/torch-ICTF2098-slide02-5500d005f43a.jpg",
+        "relative_url": "/images/torches/20261029/ICTF2098/torch-ICTF2098-slide02-5500d005f43a.jpg",
+        "sha256": "5500d005f43a27fde1763eea0a2f2e741818d6d489432b3e8ba4a4eef9d524fa",
+        "bytes": 140886,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech-ms-15f-4_2.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 3,
+        "type": "SPECS",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICTF2098/torch-ICTF2098-slide03-e525d896bb99.jpg",
+        "relative_url": "/images/torches/20261029/ICTF2098/torch-ICTF2098-slide03-e525d896bb99.jpg",
+        "sha256": "e525d896bb99f069f9af54f46044b12e9b6df15291945c05fab780355fb8d25f",
+        "bytes": 139617,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech-ms-15f-4_2.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      },
+      {
+        "slide_number": 4,
+        "type": "PACKAGE",
+        "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/ICTF2098/torch-ICTF2098-slide04-f5c74ffe4938.jpg",
+        "relative_url": "/images/torches/20261029/ICTF2098/torch-ICTF2098-slide04-f5c74ffe4938.jpg",
+        "sha256": "f5c74ffe493832bb3bce8928e5a92eee48889d91e0509650ea3bd9bf68c70925",
+        "bytes": 132636,
+        "photo_source_url": "https://svarog-rf.ru/files/product_images/tech-ms-15f-4_2.png",
+        "fact_source": "Original official Ozon category XLSX and verified manufacturer/user model data",
+        "state": "STAGED_FOR_PUBLIC_SHA_QA_NOT_OZON_SELLER"
+      }
+    ]
+  },
+  "torch_slide_gallery_status": "SOURCE_STAGED_PUBLIC_NOT_YET_VERIFIED_OZON_NOT_MODIFIED",
+  "torch_slide_gallery_created_utc": "2026-10-29T08:29:20.692149+00:00"
 }
