@@ -3126,5 +3126,86 @@
       ]
     }
   ],
-  "torch_0700025262R_wave2_created_utc": "2026-10-29T12:26:57.988114+00:00"
+  "torch_0700025262R_wave2_created_utc": "2026-10-29T12:26:57.988114+00:00",
+  "torch_0700026403R_wave2_20261029": [
+    {
+      "asset": "ESAB_0700026403R_slide05.jpg",
+      "filename": "esab-0700026403r-slide05-0497ac2d5dd2.jpg",
+      "relative_url": "/images/torches/20261029/0700026403R/esab-0700026403r-slide05-0497ac2d5dd2.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/esab-0700026403r-slide05-0497ac2d5dd2.jpg",
+      "sha256": "0497ac2d5dd2858c7e3df953d5c21d0375f68d614c2c2eebeaa489e15c1c3282",
+      "bytes": 115049,
+      "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/catalog/gorelki-esab-pike-psf-315.html"
+      ]
+    },
+    {
+      "asset": "ESAB_0700026403R_slide06.jpg",
+      "filename": "esab-0700026403r-slide06-73e26f0da157.jpg",
+      "relative_url": "/images/torches/20261029/0700026403R/esab-0700026403r-slide06-73e26f0da157.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/esab-0700026403r-slide06-73e26f0da157.jpg",
+      "sha256": "73e26f0da15703f0bcb9dd146636d3c639c15074e8065a44c32bc7512e7ea190",
+      "bytes": 122653,
+      "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/catalog/gorelki-esab-pike-psf-315.html"
+      ]
+    },
+    {
+      "asset": "ESAB_0700026403R_slide07.jpg",
+      "filename": "esab-0700026403r-slide07-beadb2bfa281.jpg",
+      "relative_url": "/images/torches/20261029/0700026403R/esab-0700026403r-slide07-beadb2bfa281.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/esab-0700026403r-slide07-beadb2bfa281.jpg",
+      "sha256": "beadb2bfa281f92f038f298a44e6da9b67d4c60fc64404de72ff01f75aa10a6f",
+      "bytes": 119467,
+      "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/catalog/gorelki-esab-pike-psf-315.html"
+      ]
+    },
+    {
+      "asset": "ESAB_0700026403R_slide08.jpg",
+      "filename": "esab-0700026403r-slide08-d3ff0bbdf575.jpg",
+      "relative_url": "/images/torches/20261029/0700026403R/esab-0700026403r-slide08-d3ff0bbdf575.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/esab-0700026403r-slide08-d3ff0bbdf575.jpg",
+      "sha256": "d3ff0bbdf575e7d0a1b36a54c6c60c7eef9dff42cc3254a0803a061131fddedf",
+      "bytes": 122147,
+      "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/catalog/gorelki-esab-pike-psf-315.html"
+      ]
+    },
+    {
+      "asset": "ESAB_0700026403R_RICH_HERO_DESKTOP_1416.jpg",
+      "filename": "esab-0700026403r-rich-hero-desktop-1416-5634a611bcd5.jpg",
+      "relative_url": "/images/torches/20261029/0700026403R/esab-0700026403r-rich-hero-desktop-1416-5634a611bcd5.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/esab-0700026403r-rich-hero-desktop-1416-5634a611bcd5.jpg",
+      "sha256": "5634a611bcd518560624338de5e84559eeb7a0a232f26471e61c231610f25967",
+      "bytes": 53045,
+      "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/catalog/gorelki-esab-pike-psf-315.html"
+      ]
+    },
+    {
+      "asset": "ESAB_0700026403R_RICH_HERO_MOBILE_708.jpg",
+      "filename": "esab-0700026403r-rich-hero-mobile-708-49d52dcab6bd.jpg",
+      "relative_url": "/images/torches/20261029/0700026403R/esab-0700026403r-rich-hero-mobile-708-49d52dcab6bd.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700026403R/esab-0700026403r-rich-hero-mobile-708-49d52dcab6bd.jpg",
+      "sha256": "49d52dcab6bd03cf6bf3fb757195145a8d07d2c121f13a89251b718de929a1b4",
+      "bytes": 34161,
+      "photo_source_url": "https://pike.esab.ru/assets/img/psf-315.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/catalog/gorelki-esab-pike-psf-315.html"
+      ]
+    }
+  ],
+  "torch_0700026403R_wave2_created_utc": "2026-10-29T12:33:11.742492+00:00"
 }
