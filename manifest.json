@@ -255,6 +255,44 @@
         "source_url": "https://svobodniy.rosindustry.pro/media/product_images/svarochnyj-apparat-edon-smart-3de93b5473-6.jpg",
         "slot": 7
       }
+    ],
+    "ESAB_0700025260": [
+      {
+        "role": "main",
+        "source_filename": "72db2e2e-8444-4880-a60b-0985f8d514d7.jpg",
+        "original_sha256": "dc2fad9ac374cc5b427a5fbd78d8c5c3e50ad7c672c6c1624c7b68b93c309cff",
+        "crop_box": [
+          190,
+          95,
+          1650,
+          1500
+        ],
+        "relative_url": "/images/esab/0700025260/esab-mxl-511w-3m-real-main-6d9e86a8f0d1.jpg",
+        "github_raw_url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/esab/0700025260/esab-mxl-511w-3m-real-main-6d9e86a8f0d1.jpg",
+        "sha256": "6d9e86a8f0d1afb04af84dc024031e684ab1977c8f9900524b0ae2c9377712ca",
+        "bytes": 387252,
+        "width": 1460,
+        "height": 1405,
+        "provenance": "Genuine exact ESAB MXL 511W 3m 0700025260 user photo; crop only, no generative edits"
+      },
+      {
+        "role": "box",
+        "source_filename": "7c692691-53ea-4e53-9e88-1bc4d92dff05.jpg",
+        "original_sha256": "337913f350f87e5f7bc6eb0f5f138beae18105cc3adc1d527daa9faa05316bc0",
+        "crop_box": [
+          320,
+          45,
+          1800,
+          1780
+        ],
+        "relative_url": "/images/esab/0700025260/esab-mxl-511w-3m-real-box-2903b00b8e18.jpg",
+        "github_raw_url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/esab/0700025260/esab-mxl-511w-3m-real-box-2903b00b8e18.jpg",
+        "sha256": "2903b00b8e18cb016933cc0d1632025103f8318874a1506b096c2c59e4d845ab",
+        "bytes": 494988,
+        "width": 1480,
+        "height": 1735,
+        "provenance": "Genuine exact ESAB MXL 511W 3m 0700025260 user photo; crop only, no generative edits"
+      }
     ]
   },
   "redbo_models": {
@@ -1828,5 +1866,6 @@
       "fact_basis": "https://cdn.vseinstrumenti.ru/instruction/nomenclaturecontent/202512/57303722.pdf/21507884_manual.pdf"
     }
   ],
-  "edon_40591_updated_at": "2026-10-14T08:11:59.226668+00:00"
+  "edon_40591_updated_at": "2026-10-14T08:11:59.226668+00:00",
+  "esab_0700025260_staged_utc": "2026-10-29T07:43:49.286862+00:00"
 }
