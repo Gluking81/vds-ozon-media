@@ -3045,5 +3045,86 @@
       ]
     }
   ],
-  "torch_0700025260_wave2_created_utc": "2026-10-29T12:18:13.126416+00:00"
+  "torch_0700025260_wave2_created_utc": "2026-10-29T12:18:13.126416+00:00",
+  "torch_0700025262R_wave2_20261029": [
+    {
+      "asset": "ESAB_0700025262R_slide05.jpg",
+      "filename": "esab-0700025262r-slide05-1efe549a351d.jpg",
+      "relative_url": "/images/torches/20261029/0700025262R/esab-0700025262r-slide05-1efe549a351d.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/esab-0700025262r-slide05-1efe549a351d.jpg",
+      "sha256": "1efe549a351d6588f3c6c931c716fa06857a750d2c3cbf31f693c2d2918d34c2",
+      "bytes": 118606,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/upload/medialibrary/635/635391ea7fc0e602b7a4a83425d03f3b.pdf"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025262R_slide06.jpg",
+      "filename": "esab-0700025262r-slide06-3c68f473c444.jpg",
+      "relative_url": "/images/torches/20261029/0700025262R/esab-0700025262r-slide06-3c68f473c444.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/esab-0700025262r-slide06-3c68f473c444.jpg",
+      "sha256": "3c68f473c444db2ea0470c8d28e8ec6ce7b4c195e461daf7295d4c2c2f68685b",
+      "bytes": 119102,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/upload/medialibrary/635/635391ea7fc0e602b7a4a83425d03f3b.pdf"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025262R_slide07.jpg",
+      "filename": "esab-0700025262r-slide07-aad66ab31c69.jpg",
+      "relative_url": "/images/torches/20261029/0700025262R/esab-0700025262r-slide07-aad66ab31c69.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/esab-0700025262r-slide07-aad66ab31c69.jpg",
+      "sha256": "aad66ab31c69102069e8ca2a8d51cf8cf6d5579bf2dac499e072b9d7723e0802",
+      "bytes": 122917,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/upload/medialibrary/635/635391ea7fc0e602b7a4a83425d03f3b.pdf"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025262R_slide08.jpg",
+      "filename": "esab-0700025262r-slide08-7875dde244d3.jpg",
+      "relative_url": "/images/torches/20261029/0700025262R/esab-0700025262r-slide08-7875dde244d3.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/esab-0700025262r-slide08-7875dde244d3.jpg",
+      "sha256": "7875dde244d31fbc5341417248dcdbeb53ec483f35c1e58eb5bf6785793e3103",
+      "bytes": 136120,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/upload/medialibrary/635/635391ea7fc0e602b7a4a83425d03f3b.pdf"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025262R_RICH_HERO_DESKTOP_1416.jpg",
+      "filename": "esab-0700025262r-rich-hero-desktop-1416-a4f3440abebc.jpg",
+      "relative_url": "/images/torches/20261029/0700025262R/esab-0700025262r-rich-hero-desktop-1416-a4f3440abebc.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/esab-0700025262r-rich-hero-desktop-1416-a4f3440abebc.jpg",
+      "sha256": "a4f3440abebc1a1cf55d72856099c936a830e203f4aa6a041acac9a2cef04492",
+      "bytes": 55086,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/upload/medialibrary/635/635391ea7fc0e602b7a4a83425d03f3b.pdf"
+      ]
+    },
+    {
+      "asset": "ESAB_0700025262R_RICH_HERO_MOBILE_708.jpg",
+      "filename": "esab-0700025262r-rich-hero-mobile-708-6b2f86023cc6.jpg",
+      "relative_url": "/images/torches/20261029/0700025262R/esab-0700025262r-rich-hero-mobile-708-6b2f86023cc6.jpg",
+      "url": "https://raw.githubusercontent.com/Gluking81/vds-ozon-media/main/images/torches/20261029/0700025262R/esab-0700025262r-rich-hero-mobile-708-6b2f86023cc6.jpg",
+      "sha256": "6b2f86023cc6473afb450633c8709fa0e9bae36007a29e2f0241dcc64f1351e8",
+      "bytes": 34980,
+      "photo_source_url": "https://pike.esab.ru/assets/img/mxl-511w.png",
+      "data_sources": [
+        "https://pike.esab.ru/",
+        "https://www.ventsvar.ru/upload/medialibrary/635/635391ea7fc0e602b7a4a83425d03f3b.pdf"
+      ]
+    }
+  ],
+  "torch_0700025262R_wave2_created_utc": "2026-10-29T12:26:57.988114+00:00"
 }
